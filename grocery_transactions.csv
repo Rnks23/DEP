@@ -1,0 +1,1501 @@
+Transaction ID,Date,Product Name,Category,Quantity Sold,Price,Customer Age,Customer Gender,Location,Season
+T0001,2024-04-08,Coffee,Beverages,4,7.63,42,Female,"Houston, TX",Spring
+T0002,2024-09-13,Soda,Beverages,2,1.36,39,Male,"Chicago, IL",Fall
+T0003,2024-09-07,Coffee,Beverages,10,18.77,38,Male,"Chicago, IL",Fall
+T0004,2024-07-03,Orange Juice,Beverages,7,3.12,44,Male,"Philadelphia, PA",Summer
+T0005,2024-08-04,Chicken Breast,Meat,7,5.37,31,Male,"New York, NY",Summer
+T0006,2024-10-10,Chicken Breast,Meat,8,19.17,57,Male,"Philadelphia, PA",Fall
+T0007,2024-03-21,Yogurt,Dairy,9,2.54,67,Female,"San Jose, CA",Spring
+T0008,2024-09-17,Frozen Pizza,Frozen,10,16.61,29,Male,"Phoenix, AZ",Fall
+T0009,2024-09-21,Chicken Breast,Meat,6,16.08,70,Male,"San Jose, CA",Fall
+T0010,2024-01-13,Chicken Breast,Meat,7,15.65,65,Female,"Chicago, IL",Winter
+T0011,2024-12-10,Apples,Produce,2,10.0,51,Male,"San Diego, CA",Winter
+T0012,2024-11-14,Orange Juice,Beverages,10,9.25,30,Male,"New York, NY",Fall
+T0013,2024-08-23,Ice Cream,Frozen,8,11.25,43,Male,"Houston, TX",Summer
+T0014,2024-01-04,Pork Chops,Meat,10,1.38,60,Male,"Chicago, IL",Winter
+T0015,2024-02-20,Frozen Pizza,Frozen,5,19.74,57,Female,"New York, NY",Winter
+T0016,2024-02-18,Bananas,Produce,8,6.36,27,Male,"San Jose, CA",Winter
+T0017,2024-02-16,Bananas,Produce,1,11.93,41,Male,"San Diego, CA",Winter
+T0018,2024-07-03,Carrots,Produce,8,17.5,53,Male,"Dallas, TX",Summer
+T0019,2024-10-27,Pork Chops,Meat,10,19.46,49,Female,"Houston, TX",Fall
+T0020,2024-06-25,Ice Cream,Frozen,8,19.14,55,Male,"New York, NY",Summer
+T0021,2024-07-15,Ground Beef,Meat,6,5.51,31,Male,"San Antonio, TX",Summer
+T0022,2024-04-04,Whole Milk,Dairy,7,8.17,66,Female,"Los Angeles, CA",Spring
+T0023,2024-11-04,Ground Beef,Meat,2,17.47,68,Male,"San Jose, CA",Fall
+T0024,2024-04-11,Frozen Peas,Frozen,4,3.99,33,Female,"San Jose, CA",Spring
+T0025,2024-05-06,Coffee,Beverages,8,0.93,20,Male,"San Antonio, TX",Spring
+T0026,2024-07-04,Croissant,Bakery,1,10.54,30,Male,"New York, NY",Summer
+T0027,2024-07-04,Orange Juice,Beverages,3,11.47,61,Female,"Philadelphia, PA",Summer
+T0028,2024-03-04,Frozen Peas,Frozen,9,11.47,41,Male,"Philadelphia, PA",Spring
+T0029,2024-10-23,Croissant,Bakery,9,13.95,37,Male,"Houston, TX",Fall
+T0030,2024-09-01,Coffee,Beverages,4,8.08,46,Male,"Houston, TX",Fall
+T0031,2024-03-15,Chicken Breast,Meat,1,17.49,49,Female,"San Diego, CA",Spring
+T0032,2024-07-01,Apples,Produce,4,7.58,62,Female,"San Antonio, TX",Summer
+T0033,2024-10-11,Frozen Pizza,Frozen,9,14.38,20,Male,"Philadelphia, PA",Fall
+T0034,2024-07-02,Soda,Beverages,4,17.27,36,Male,"Houston, TX",Summer
+T0035,2024-08-16,Carrots,Produce,1,4.39,20,Female,"San Antonio, TX",Summer
+T0036,2024-05-11,Soda,Beverages,7,1.73,32,Female,"San Jose, CA",Spring
+T0037,2024-07-01,Chicken Breast,Meat,5,13.71,48,Male,"San Diego, CA",Summer
+T0038,2024-07-07,Apples,Produce,6,2.58,46,Female,"New York, NY",Summer
+T0039,2024-05-06,Whole Wheat Bread,Bakery,1,5.56,67,Female,"San Jose, CA",Spring
+T0040,2024-03-15,Coffee,Beverages,3,19.29,41,Female,"San Antonio, TX",Spring
+T0041,2024-11-05,Yogurt,Dairy,1,15.29,19,Female,"San Antonio, TX",Fall
+T0042,2024-08-25,Croissant,Bakery,5,10.12,51,Male,"New York, NY",Summer
+T0043,2024-09-09,Carrots,Produce,4,7.02,18,Male,"New York, NY",Fall
+T0044,2024-03-24,Pork Chops,Meat,10,4.86,51,Female,"Dallas, TX",Spring
+T0045,2024-01-12,Orange Juice,Beverages,6,2.78,28,Female,"Dallas, TX",Winter
+T0046,2024-05-27,Carrots,Produce,4,12.92,33,Male,"Chicago, IL",Spring
+T0047,2024-05-04,Soda,Beverages,2,19.32,50,Male,"Phoenix, AZ",Spring
+T0048,2024-05-28,Pork Chops,Meat,9,17.98,42,Female,"San Antonio, TX",Spring
+T0049,2024-10-08,Soda,Beverages,7,6.05,38,Female,"New York, NY",Fall
+T0050,2024-04-13,Apples,Produce,2,9.72,19,Male,"Phoenix, AZ",Spring
+T0051,2024-11-26,Croissant,Bakery,2,12.45,38,Male,"New York, NY",Fall
+T0052,2024-11-25,Carrots,Produce,10,9.27,33,Female,"San Diego, CA",Fall
+T0053,2024-02-20,Whole Milk,Dairy,8,6.08,44,Female,"Chicago, IL",Winter
+T0054,2024-02-12,Apples,Produce,5,12.01,64,Male,"San Antonio, TX",Winter
+T0055,2024-01-18,Pork Chops,Meat,6,2.41,55,Female,"Chicago, IL",Winter
+T0056,2024-04-22,Bananas,Produce,4,15.07,19,Male,"San Diego, CA",Spring
+T0057,2024-10-09,Pumpkin Pie,Bakery,6,3.5,52,Male,"San Diego, CA",Fall
+T0058,2024-11-12,Cheddar Cheese,Dairy,7,6.97,34,Male,"Phoenix, AZ",Fall
+T0059,2024-07-01,Ice Cream,Frozen,4,18.92,35,Male,"Philadelphia, PA",Summer
+T0060,2024-02-23,Coffee,Beverages,1,9.6,66,Male,"Houston, TX",Winter
+T0061,2024-12-15,Ice Cream,Frozen,10,13.73,27,Female,"Phoenix, AZ",Winter
+T0062,2024-06-05,Orange Juice,Beverages,7,4.04,37,Male,"New York, NY",Summer
+T0063,2024-09-02,Yogurt,Dairy,2,18.4,67,Male,"Los Angeles, CA",Fall
+T0064,2024-03-04,Chicken Breast,Meat,9,7.43,57,Female,"Phoenix, AZ",Spring
+T0065,2024-12-17,Pork Chops,Meat,5,9.46,27,Male,"Houston, TX",Winter
+T0066,2024-06-27,Bananas,Produce,9,11.94,66,Female,"Houston, TX",Summer
+T0067,2024-06-23,Croissant,Bakery,1,9.89,39,Female,"Philadelphia, PA",Summer
+T0068,2024-04-13,Orange Juice,Beverages,7,2.54,36,Male,"San Antonio, TX",Spring
+T0069,2024-04-18,Coffee,Beverages,2,15.19,52,Male,"Chicago, IL",Spring
+T0070,2024-05-12,Pumpkin Pie,Bakery,8,8.17,20,Female,"New York, NY",Spring
+T0071,2024-11-03,Coffee,Beverages,3,3.92,53,Female,"Dallas, TX",Fall
+T0072,2024-04-20,Ground Beef,Meat,9,12.27,38,Male,"Chicago, IL",Spring
+T0073,2024-03-17,Chicken Breast,Meat,6,11.29,55,Female,"Los Angeles, CA",Spring
+T0074,2024-07-14,Ice Cream,Frozen,9,12.91,70,Female,"Houston, TX",Summer
+T0075,2024-10-10,Pumpkin Pie,Bakery,3,13.66,31,Male,"Los Angeles, CA",Fall
+T0076,2024-10-25,Bananas,Produce,8,19.64,43,Female,"Dallas, TX",Fall
+T0077,2024-04-18,Chicken Breast,Meat,1,7.12,70,Female,"Phoenix, AZ",Spring
+T0078,2024-01-15,Whole Milk,Dairy,7,14.59,18,Male,"Chicago, IL",Winter
+T0079,2024-09-28,Pumpkin Pie,Bakery,10,12.8,59,Male,"Houston, TX",Fall
+T0080,2024-04-12,Whole Wheat Bread,Bakery,3,3.04,70,Female,"Los Angeles, CA",Spring
+T0081,2024-02-01,Whole Wheat Bread,Bakery,5,5.59,62,Female,"Dallas, TX",Winter
+T0082,2024-12-09,Whole Wheat Bread,Bakery,7,0.86,28,Female,"San Jose, CA",Winter
+T0083,2024-06-26,Ground Beef,Meat,2,2.72,39,Female,"New York, NY",Summer
+T0084,2024-01-04,Chicken Breast,Meat,5,4.68,41,Female,"Philadelphia, PA",Winter
+T0085,2024-02-13,Pork Chops,Meat,3,8.61,20,Female,"San Antonio, TX",Winter
+T0086,2024-02-22,Yogurt,Dairy,1,2.07,33,Male,"Philadelphia, PA",Winter
+T0087,2024-07-26,Pumpkin Pie,Bakery,6,6.24,19,Male,"Phoenix, AZ",Summer
+T0088,2024-07-12,Bananas,Produce,5,9.9,25,Male,"New York, NY",Summer
+T0089,2024-05-14,Ground Beef,Meat,8,13.31,69,Female,"Dallas, TX",Spring
+T0090,2024-07-15,Soda,Beverages,1,15.99,43,Male,"San Jose, CA",Summer
+T0091,2024-03-21,Pork Chops,Meat,6,0.64,49,Female,"Philadelphia, PA",Spring
+T0092,2024-08-10,Frozen Peas,Frozen,7,10.81,49,Female,"Houston, TX",Summer
+T0093,2024-11-04,Pork Chops,Meat,10,2.25,55,Male,"San Diego, CA",Fall
+T0094,2024-12-04,Croissant,Bakery,8,16.7,65,Male,"New York, NY",Winter
+T0095,2024-04-08,Pumpkin Pie,Bakery,10,0.74,22,Male,"New York, NY",Spring
+T0096,2024-07-09,Coffee,Beverages,4,1.62,23,Male,"San Diego, CA",Summer
+T0097,2024-09-20,Chicken Breast,Meat,5,4.71,26,Male,"Chicago, IL",Fall
+T0098,2024-04-24,Pumpkin Pie,Bakery,6,17.9,49,Female,"San Antonio, TX",Spring
+T0099,2024-10-23,Pork Chops,Meat,5,10.38,66,Male,"New York, NY",Fall
+T0100,2024-11-21,Cheddar Cheese,Dairy,6,15.04,31,Female,"San Jose, CA",Fall
+T0101,2024-03-23,Frozen Pizza,Frozen,3,10.51,30,Female,"San Diego, CA",Spring
+T0102,2024-07-27,Bananas,Produce,7,17.91,42,Female,"Chicago, IL",Summer
+T0103,2024-06-05,Bananas,Produce,8,14.88,54,Female,"San Jose, CA",Summer
+T0104,2024-01-24,Frozen Pizza,Frozen,1,14.83,69,Male,"Philadelphia, PA",Winter
+T0105,2024-02-06,Yogurt,Dairy,5,8.93,58,Female,"San Diego, CA",Winter
+T0106,2024-02-04,Frozen Peas,Frozen,3,17.31,26,Female,"Chicago, IL",Winter
+T0107,2024-08-07,Whole Milk,Dairy,9,11.9,20,Female,"Houston, TX",Summer
+T0108,2024-11-22,Yogurt,Dairy,8,9.37,51,Female,"New York, NY",Fall
+T0109,2024-07-03,Cheddar Cheese,Dairy,4,6.44,30,Male,"San Jose, CA",Summer
+T0110,2024-05-24,Carrots,Produce,10,5.37,30,Male,"Los Angeles, CA",Spring
+T0111,2024-01-22,Ice Cream,Frozen,9,1.52,31,Male,"Los Angeles, CA",Winter
+T0112,2024-10-28,Pork Chops,Meat,8,15.02,65,Female,"San Antonio, TX",Fall
+T0113,2024-01-12,Whole Milk,Dairy,2,4.35,48,Male,"San Diego, CA",Winter
+T0114,2024-07-03,Apples,Produce,4,4.11,62,Male,"San Jose, CA",Summer
+T0115,2024-01-28,Pork Chops,Meat,3,6.08,69,Female,"Los Angeles, CA",Winter
+T0116,2024-08-22,Yogurt,Dairy,4,14.62,68,Female,"San Antonio, TX",Summer
+T0117,2024-01-15,Coffee,Beverages,2,0.9,19,Female,"Philadelphia, PA",Winter
+T0118,2024-03-22,Frozen Pizza,Frozen,1,16.83,62,Male,"Houston, TX",Spring
+T0119,2024-12-21,Yogurt,Dairy,7,17.38,26,Female,"Chicago, IL",Winter
+T0120,2024-05-05,Yogurt,Dairy,7,2.08,25,Female,"San Diego, CA",Spring
+T0121,2024-05-04,Bananas,Produce,7,12.97,27,Male,"Philadelphia, PA",Spring
+T0122,2024-11-17,Whole Wheat Bread,Bakery,2,7.15,43,Female,"New York, NY",Fall
+T0123,2024-11-10,Croissant,Bakery,2,7.09,26,Male,"Philadelphia, PA",Fall
+T0124,2024-12-04,Coffee,Beverages,2,0.91,56,Male,"Phoenix, AZ",Winter
+T0125,2024-05-12,Whole Milk,Dairy,9,1.37,33,Male,"New York, NY",Spring
+T0126,2024-01-02,Orange Juice,Beverages,1,13.14,26,Female,"Los Angeles, CA",Winter
+T0127,2024-07-28,Ground Beef,Meat,6,4.76,22,Female,"Houston, TX",Summer
+T0128,2024-03-28,Cheddar Cheese,Dairy,7,8.98,30,Female,"Phoenix, AZ",Spring
+T0129,2024-06-25,Cheddar Cheese,Dairy,9,18.59,70,Male,"San Antonio, TX",Summer
+T0130,2024-05-26,Pumpkin Pie,Bakery,2,2.46,57,Male,"Philadelphia, PA",Spring
+T0131,2024-01-18,Cheddar Cheese,Dairy,4,14.69,53,Female,"Dallas, TX",Winter
+T0132,2024-06-20,Cheddar Cheese,Dairy,7,14.67,45,Female,"Philadelphia, PA",Summer
+T0133,2024-08-17,Ice Cream,Frozen,2,4.11,27,Female,"Philadelphia, PA",Summer
+T0134,2024-03-27,Pumpkin Pie,Bakery,5,2.14,67,Female,"San Antonio, TX",Spring
+T0135,2024-09-17,Ground Beef,Meat,8,12.54,34,Female,"Philadelphia, PA",Fall
+T0136,2024-02-15,Pumpkin Pie,Bakery,3,16.65,31,Female,"Dallas, TX",Winter
+T0137,2024-09-14,Whole Milk,Dairy,1,12.24,56,Female,"San Jose, CA",Fall
+T0138,2024-08-08,Ground Beef,Meat,8,18.45,43,Male,"San Jose, CA",Summer
+T0139,2024-12-15,Frozen Pizza,Frozen,3,7.21,70,Male,"Philadelphia, PA",Winter
+T0140,2024-03-13,Pork Chops,Meat,8,7.94,28,Female,"Dallas, TX",Spring
+T0141,2024-07-01,Coffee,Beverages,3,19.27,28,Female,"Philadelphia, PA",Summer
+T0142,2024-02-13,Apples,Produce,2,17.18,18,Male,"Philadelphia, PA",Winter
+T0143,2024-01-04,Whole Wheat Bread,Bakery,7,0.75,39,Male,"New York, NY",Winter
+T0144,2024-10-03,Frozen Peas,Frozen,7,9.21,23,Male,"New York, NY",Fall
+T0145,2024-04-26,Bananas,Produce,4,4.2,65,Female,"Philadelphia, PA",Spring
+T0146,2024-11-27,Carrots,Produce,7,10.88,53,Male,"Houston, TX",Fall
+T0147,2024-08-09,Frozen Peas,Frozen,8,18.76,64,Female,"Houston, TX",Summer
+T0148,2024-04-27,Yogurt,Dairy,1,11.71,57,Female,"Houston, TX",Spring
+T0149,2024-06-04,Whole Wheat Bread,Bakery,7,16.66,70,Male,"Phoenix, AZ",Summer
+T0150,2024-09-16,Carrots,Produce,3,9.82,63,Female,"Dallas, TX",Fall
+T0151,2024-01-14,Frozen Peas,Frozen,1,13.64,40,Male,"Philadelphia, PA",Winter
+T0152,2024-11-13,Whole Wheat Bread,Bakery,9,1.36,33,Female,"Chicago, IL",Fall
+T0153,2024-08-07,Orange Juice,Beverages,4,11.99,65,Female,"San Jose, CA",Summer
+T0154,2024-11-06,Orange Juice,Beverages,6,14.84,56,Male,"Houston, TX",Fall
+T0155,2024-09-13,Ice Cream,Frozen,4,19.61,59,Male,"Dallas, TX",Fall
+T0156,2024-11-05,Croissant,Bakery,6,2.39,61,Female,"San Diego, CA",Fall
+T0157,2024-04-15,Ground Beef,Meat,2,4.67,61,Male,"Phoenix, AZ",Spring
+T0158,2024-08-20,Bananas,Produce,7,5.25,53,Male,"Philadelphia, PA",Summer
+T0159,2024-07-13,Cheddar Cheese,Dairy,4,2.1,57,Male,"New York, NY",Summer
+T0160,2024-07-04,Croissant,Bakery,1,9.47,18,Male,"Houston, TX",Summer
+T0161,2024-02-26,Pumpkin Pie,Bakery,2,2.29,45,Male,"San Antonio, TX",Winter
+T0162,2024-10-25,Whole Milk,Dairy,5,8.98,24,Male,"Houston, TX",Fall
+T0163,2024-05-19,Frozen Pizza,Frozen,8,9.16,26,Male,"San Diego, CA",Spring
+T0164,2024-11-01,Pork Chops,Meat,5,5.62,36,Male,"New York, NY",Fall
+T0165,2024-03-05,Soda,Beverages,4,2.75,38,Female,"San Diego, CA",Spring
+T0166,2024-11-17,Apples,Produce,8,1.59,45,Female,"Philadelphia, PA",Fall
+T0167,2024-09-21,Pork Chops,Meat,2,18.38,23,Male,"Houston, TX",Fall
+T0168,2024-10-20,Yogurt,Dairy,5,0.63,41,Female,"San Diego, CA",Fall
+T0169,2024-02-21,Yogurt,Dairy,9,4.51,26,Female,"Phoenix, AZ",Winter
+T0170,2024-10-14,Frozen Peas,Frozen,4,4.86,50,Female,"Houston, TX",Fall
+T0171,2024-11-15,Frozen Peas,Frozen,7,14.93,18,Female,"San Jose, CA",Fall
+T0172,2024-12-27,Coffee,Beverages,9,4.03,58,Female,"San Antonio, TX",Winter
+T0173,2024-09-27,Whole Milk,Dairy,5,4.32,58,Female,"Chicago, IL",Fall
+T0174,2024-10-16,Soda,Beverages,8,16.44,49,Male,"San Jose, CA",Fall
+T0175,2024-11-27,Chicken Breast,Meat,6,15.93,66,Female,"San Antonio, TX",Fall
+T0176,2024-10-09,Croissant,Bakery,9,10.1,27,Male,"San Diego, CA",Fall
+T0177,2024-01-01,Carrots,Produce,3,10.71,36,Male,"Phoenix, AZ",Winter
+T0178,2024-01-08,Ground Beef,Meat,5,13.69,43,Male,"Los Angeles, CA",Winter
+T0179,2024-08-09,Carrots,Produce,4,19.89,55,Male,"Los Angeles, CA",Summer
+T0180,2024-08-06,Soda,Beverages,1,1.76,45,Female,"Phoenix, AZ",Summer
+T0181,2024-10-19,Croissant,Bakery,3,18.83,37,Female,"New York, NY",Fall
+T0182,2024-10-17,Coffee,Beverages,2,9.63,57,Male,"Los Angeles, CA",Fall
+T0183,2024-01-02,Soda,Beverages,10,10.26,23,Female,"Philadelphia, PA",Winter
+T0184,2024-03-16,Frozen Pizza,Frozen,3,17.26,36,Female,"Dallas, TX",Spring
+T0185,2024-05-07,Bananas,Produce,9,12.06,28,Male,"San Diego, CA",Spring
+T0186,2024-01-28,Pork Chops,Meat,5,11.29,47,Male,"Dallas, TX",Winter
+T0187,2024-04-15,Ground Beef,Meat,5,2.0,47,Female,"San Diego, CA",Spring
+T0188,2024-06-15,Bananas,Produce,1,9.98,37,Female,"San Jose, CA",Summer
+T0189,2024-08-08,Carrots,Produce,6,4.63,38,Female,"Phoenix, AZ",Summer
+T0190,2024-07-01,Pork Chops,Meat,8,19.63,20,Female,"Philadelphia, PA",Summer
+T0191,2024-01-09,Apples,Produce,10,5.37,25,Female,"Houston, TX",Winter
+T0192,2024-02-07,Pork Chops,Meat,1,18.44,45,Female,"Dallas, TX",Winter
+T0193,2024-07-25,Croissant,Bakery,5,12.29,35,Female,"Houston, TX",Summer
+T0194,2024-03-27,Pumpkin Pie,Bakery,10,11.83,37,Female,"San Antonio, TX",Spring
+T0195,2024-07-02,Soda,Beverages,2,15.42,42,Male,"Dallas, TX",Summer
+T0196,2024-08-26,Yogurt,Dairy,7,19.85,34,Male,"San Diego, CA",Summer
+T0197,2024-02-19,Yogurt,Dairy,3,17.0,50,Male,"Phoenix, AZ",Winter
+T0198,2024-05-15,Yogurt,Dairy,6,19.19,25,Female,"Phoenix, AZ",Spring
+T0199,2024-07-25,Chicken Breast,Meat,3,16.11,22,Female,"Dallas, TX",Summer
+T0200,2024-06-05,Pork Chops,Meat,9,4.8,51,Female,"Houston, TX",Summer
+T0201,2024-07-28,Yogurt,Dairy,1,8.2,46,Female,"New York, NY",Summer
+T0202,2024-04-13,Orange Juice,Beverages,5,2.26,29,Male,"San Antonio, TX",Spring
+T0203,2024-03-25,Pumpkin Pie,Bakery,9,16.13,31,Male,"San Diego, CA",Spring
+T0204,2024-02-19,Whole Milk,Dairy,6,17.3,69,Male,"New York, NY",Winter
+T0205,2024-03-23,Chicken Breast,Meat,5,16.23,31,Female,"San Jose, CA",Spring
+T0206,2024-04-28,Yogurt,Dairy,1,10.92,50,Female,"New York, NY",Spring
+T0207,2024-07-19,Chicken Breast,Meat,8,17.09,68,Female,"Los Angeles, CA",Summer
+T0208,2024-08-08,Pumpkin Pie,Bakery,3,7.73,50,Male,"New York, NY",Summer
+T0209,2024-06-21,Apples,Produce,9,5.24,20,Male,"Houston, TX",Summer
+T0210,2024-03-01,Whole Milk,Dairy,8,2.03,53,Male,"Philadelphia, PA",Spring
+T0211,2024-10-22,Whole Milk,Dairy,6,17.17,48,Female,"San Diego, CA",Fall
+T0212,2024-10-17,Croissant,Bakery,1,19.97,26,Male,"New York, NY",Fall
+T0213,2024-05-18,Pork Chops,Meat,9,6.69,24,Male,"New York, NY",Spring
+T0214,2024-01-07,Cheddar Cheese,Dairy,9,7.49,61,Male,"Philadelphia, PA",Winter
+T0215,2024-07-22,Whole Wheat Bread,Bakery,5,5.32,70,Male,"San Diego, CA",Summer
+T0216,2024-12-03,Ice Cream,Frozen,10,2.81,22,Female,"Los Angeles, CA",Winter
+T0217,2024-01-05,Ice Cream,Frozen,2,6.88,51,Male,"Chicago, IL",Winter
+T0218,2024-08-06,Ground Beef,Meat,10,7.26,50,Female,"Chicago, IL",Summer
+T0219,2024-04-09,Apples,Produce,2,0.96,49,Female,"Phoenix, AZ",Spring
+T0220,2024-10-25,Whole Milk,Dairy,2,4.64,61,Male,"Los Angeles, CA",Fall
+T0221,2024-05-25,Yogurt,Dairy,8,15.1,66,Female,"Philadelphia, PA",Spring
+T0222,2024-11-09,Frozen Peas,Frozen,5,9.21,37,Male,"New York, NY",Fall
+T0223,2024-06-23,Frozen Pizza,Frozen,10,16.42,44,Female,"Dallas, TX",Summer
+T0224,2024-10-25,Soda,Beverages,4,12.43,70,Male,"Philadelphia, PA",Fall
+T0225,2024-12-23,Soda,Beverages,2,12.07,45,Female,"Dallas, TX",Winter
+T0226,2024-07-11,Whole Wheat Bread,Bakery,5,17.21,38,Male,"San Jose, CA",Summer
+T0227,2024-01-01,Whole Milk,Dairy,6,16.3,43,Female,"Philadelphia, PA",Winter
+T0228,2024-02-01,Cheddar Cheese,Dairy,9,7.19,29,Male,"San Diego, CA",Winter
+T0229,2024-02-28,Cheddar Cheese,Dairy,2,4.17,37,Female,"Chicago, IL",Winter
+T0230,2024-06-08,Whole Wheat Bread,Bakery,9,10.42,32,Male,"Philadelphia, PA",Summer
+T0231,2024-10-16,Cheddar Cheese,Dairy,3,3.59,35,Male,"Los Angeles, CA",Fall
+T0232,2024-12-16,Cheddar Cheese,Dairy,4,4.85,41,Male,"San Jose, CA",Winter
+T0233,2024-12-13,Orange Juice,Beverages,8,18.42,54,Male,"New York, NY",Winter
+T0234,2024-04-14,Pumpkin Pie,Bakery,5,8.89,62,Female,"Los Angeles, CA",Spring
+T0235,2024-10-26,Orange Juice,Beverages,5,8.82,58,Male,"Chicago, IL",Fall
+T0236,2024-07-19,Apples,Produce,6,6.4,64,Male,"San Diego, CA",Summer
+T0237,2024-11-02,Yogurt,Dairy,10,0.86,60,Female,"Dallas, TX",Fall
+T0238,2024-07-11,Frozen Pizza,Frozen,7,3.8,44,Male,"Philadelphia, PA",Summer
+T0239,2024-12-12,Ice Cream,Frozen,7,10.01,65,Female,"Chicago, IL",Winter
+T0240,2024-10-03,Cheddar Cheese,Dairy,3,11.21,22,Male,"San Antonio, TX",Fall
+T0241,2024-09-16,Bananas,Produce,7,10.41,19,Male,"Philadelphia, PA",Fall
+T0242,2024-02-24,Frozen Pizza,Frozen,8,3.38,45,Female,"Los Angeles, CA",Winter
+T0243,2024-09-22,Orange Juice,Beverages,7,13.61,68,Male,"Los Angeles, CA",Fall
+T0244,2024-09-03,Croissant,Bakery,2,6.56,61,Male,"Philadelphia, PA",Fall
+T0245,2024-05-18,Whole Milk,Dairy,8,15.12,51,Male,"Chicago, IL",Spring
+T0246,2024-01-20,Coffee,Beverages,4,10.14,54,Male,"Phoenix, AZ",Winter
+T0247,2024-10-03,Soda,Beverages,10,13.62,67,Female,"Chicago, IL",Fall
+T0248,2024-05-21,Carrots,Produce,5,12.01,36,Female,"San Antonio, TX",Spring
+T0249,2024-03-19,Yogurt,Dairy,1,8.37,49,Male,"San Antonio, TX",Spring
+T0250,2024-06-10,Carrots,Produce,6,8.97,27,Female,"Houston, TX",Summer
+T0251,2024-11-03,Ice Cream,Frozen,8,16.45,63,Male,"New York, NY",Fall
+T0252,2024-12-04,Coffee,Beverages,10,12.33,62,Male,"Phoenix, AZ",Winter
+T0253,2024-12-03,Pork Chops,Meat,1,19.05,49,Female,"Los Angeles, CA",Winter
+T0254,2024-06-12,Pork Chops,Meat,9,15.5,36,Female,"Chicago, IL",Summer
+T0255,2024-10-12,Orange Juice,Beverages,1,2.68,37,Female,"Dallas, TX",Fall
+T0256,2024-11-02,Ground Beef,Meat,9,12.63,35,Female,"New York, NY",Fall
+T0257,2024-10-12,Cheddar Cheese,Dairy,1,5.37,65,Male,"San Diego, CA",Fall
+T0258,2024-08-18,Apples,Produce,2,13.0,18,Male,"New York, NY",Summer
+T0259,2024-01-20,Whole Milk,Dairy,4,14.06,52,Male,"New York, NY",Winter
+T0260,2024-01-15,Yogurt,Dairy,10,12.72,20,Female,"Dallas, TX",Winter
+T0261,2024-02-27,Pumpkin Pie,Bakery,4,13.57,40,Female,"New York, NY",Winter
+T0262,2024-06-10,Chicken Breast,Meat,4,11.87,66,Male,"San Diego, CA",Summer
+T0263,2024-07-04,Frozen Peas,Frozen,1,10.28,66,Male,"San Jose, CA",Summer
+T0264,2024-12-01,Pork Chops,Meat,4,6.52,67,Male,"Phoenix, AZ",Winter
+T0265,2024-11-15,Ground Beef,Meat,8,13.68,43,Male,"Chicago, IL",Fall
+T0266,2024-02-07,Frozen Peas,Frozen,3,5.87,41,Male,"San Antonio, TX",Winter
+T0267,2024-03-20,Croissant,Bakery,5,14.22,58,Female,"Dallas, TX",Spring
+T0268,2024-03-02,Pumpkin Pie,Bakery,5,18.23,56,Male,"Los Angeles, CA",Spring
+T0269,2024-01-12,Yogurt,Dairy,7,3.37,51,Female,"San Antonio, TX",Winter
+T0270,2024-01-12,Apples,Produce,4,14.42,19,Female,"Chicago, IL",Winter
+T0271,2024-07-19,Apples,Produce,4,4.63,36,Female,"Los Angeles, CA",Summer
+T0272,2024-01-01,Pumpkin Pie,Bakery,5,19.38,22,Male,"New York, NY",Winter
+T0273,2024-10-28,Ground Beef,Meat,5,19.57,32,Male,"Philadelphia, PA",Fall
+T0274,2024-04-19,Frozen Peas,Frozen,6,8.71,53,Female,"San Jose, CA",Spring
+T0275,2024-06-20,Pork Chops,Meat,5,19.12,47,Female,"New York, NY",Summer
+T0276,2024-02-25,Ice Cream,Frozen,10,9.73,28,Male,"Philadelphia, PA",Winter
+T0277,2024-04-27,Apples,Produce,10,13.18,59,Female,"Philadelphia, PA",Spring
+T0278,2024-01-16,Orange Juice,Beverages,4,16.75,48,Male,"Philadelphia, PA",Winter
+T0279,2024-12-16,Frozen Pizza,Frozen,6,3.1,20,Female,"Phoenix, AZ",Winter
+T0280,2024-12-21,Coffee,Beverages,2,4.54,46,Female,"Chicago, IL",Winter
+T0281,2024-03-23,Frozen Pizza,Frozen,2,0.74,51,Female,"Los Angeles, CA",Spring
+T0282,2024-05-21,Croissant,Bakery,2,1.46,32,Male,"Chicago, IL",Spring
+T0283,2024-08-28,Soda,Beverages,5,7.79,62,Female,"San Antonio, TX",Summer
+T0284,2024-03-19,Yogurt,Dairy,3,15.45,44,Female,"Philadelphia, PA",Spring
+T0285,2024-07-08,Ground Beef,Meat,8,12.01,65,Male,"San Jose, CA",Summer
+T0286,2024-07-05,Ice Cream,Frozen,6,12.66,40,Female,"San Diego, CA",Summer
+T0287,2024-10-16,Frozen Pizza,Frozen,10,6.66,52,Male,"Philadelphia, PA",Fall
+T0288,2024-12-17,Soda,Beverages,6,19.38,44,Male,"Chicago, IL",Winter
+T0289,2024-06-19,Coffee,Beverages,8,2.96,38,Female,"Philadelphia, PA",Summer
+T0290,2024-09-07,Croissant,Bakery,10,18.71,54,Male,"Phoenix, AZ",Fall
+T0291,2024-09-18,Frozen Peas,Frozen,9,0.65,53,Male,"Dallas, TX",Fall
+T0292,2024-02-27,Whole Wheat Bread,Bakery,3,6.07,32,Male,"San Antonio, TX",Winter
+T0293,2024-07-04,Ground Beef,Meat,5,7.61,37,Male,"San Antonio, TX",Summer
+T0294,2024-09-16,Orange Juice,Beverages,2,1.34,62,Male,"Dallas, TX",Fall
+T0295,2024-05-25,Pork Chops,Meat,10,1.35,37,Male,"Chicago, IL",Spring
+T0296,2024-09-14,Soda,Beverages,4,18.53,29,Female,"Dallas, TX",Fall
+T0297,2024-01-26,Chicken Breast,Meat,8,19.33,68,Male,"San Jose, CA",Winter
+T0298,2024-07-10,Coffee,Beverages,2,5.72,27,Female,"New York, NY",Summer
+T0299,2024-06-05,Pork Chops,Meat,8,13.33,54,Female,"New York, NY",Summer
+T0300,2024-03-04,Ground Beef,Meat,9,1.09,29,Male,"Los Angeles, CA",Spring
+T0301,2024-03-16,Bananas,Produce,9,17.89,34,Male,"Phoenix, AZ",Spring
+T0302,2024-04-28,Cheddar Cheese,Dairy,4,11.96,49,Female,"New York, NY",Spring
+T0303,2024-10-02,Yogurt,Dairy,10,4.46,49,Female,"Phoenix, AZ",Fall
+T0304,2024-06-19,Yogurt,Dairy,8,3.95,40,Female,"Dallas, TX",Summer
+T0305,2024-10-23,Croissant,Bakery,1,13.13,20,Female,"Phoenix, AZ",Fall
+T0306,2024-12-06,Soda,Beverages,5,15.07,24,Female,"Chicago, IL",Winter
+T0307,2024-04-14,Ice Cream,Frozen,10,6.79,58,Female,"Chicago, IL",Spring
+T0308,2024-12-11,Bananas,Produce,4,17.37,32,Female,"San Antonio, TX",Winter
+T0309,2024-07-05,Cheddar Cheese,Dairy,5,1.9,28,Female,"Houston, TX",Summer
+T0310,2024-08-13,Ice Cream,Frozen,5,14.23,62,Female,"San Diego, CA",Summer
+T0311,2024-04-19,Cheddar Cheese,Dairy,6,15.82,70,Female,"Dallas, TX",Spring
+T0312,2024-07-07,Croissant,Bakery,6,6.55,19,Female,"Houston, TX",Summer
+T0313,2024-08-18,Pork Chops,Meat,9,9.31,39,Female,"Chicago, IL",Summer
+T0314,2024-03-26,Chicken Breast,Meat,9,19.74,32,Female,"New York, NY",Spring
+T0315,2024-01-04,Frozen Peas,Frozen,7,19.12,25,Female,"San Diego, CA",Winter
+T0316,2024-02-05,Apples,Produce,5,17.43,41,Female,"San Jose, CA",Winter
+T0317,2024-09-04,Pork Chops,Meat,3,13.93,45,Female,"Los Angeles, CA",Fall
+T0318,2024-06-02,Cheddar Cheese,Dairy,9,6.36,36,Female,"San Antonio, TX",Summer
+T0319,2024-08-09,Orange Juice,Beverages,9,5.83,29,Male,"Phoenix, AZ",Summer
+T0320,2024-03-04,Whole Milk,Dairy,9,18.41,63,Female,"San Jose, CA",Spring
+T0321,2024-11-26,Whole Milk,Dairy,1,2.58,27,Female,"San Diego, CA",Fall
+T0322,2024-01-25,Whole Milk,Dairy,9,2.36,49,Male,"Phoenix, AZ",Winter
+T0323,2024-03-21,Frozen Pizza,Frozen,6,19.85,22,Female,"Los Angeles, CA",Spring
+T0324,2024-02-02,Cheddar Cheese,Dairy,10,5.68,63,Male,"San Jose, CA",Winter
+T0325,2024-09-24,Carrots,Produce,7,17.93,62,Male,"Los Angeles, CA",Fall
+T0326,2024-11-16,Apples,Produce,5,8.54,67,Male,"Philadelphia, PA",Fall
+T0327,2024-06-24,Frozen Peas,Frozen,3,8.68,52,Male,"New York, NY",Summer
+T0328,2024-11-28,Bananas,Produce,8,11.88,60,Male,"New York, NY",Fall
+T0329,2024-05-19,Cheddar Cheese,Dairy,2,10.76,27,Male,"San Diego, CA",Spring
+T0330,2024-08-01,Ice Cream,Frozen,7,14.36,60,Female,"San Antonio, TX",Summer
+T0331,2024-07-27,Bananas,Produce,8,10.73,50,Female,"Los Angeles, CA",Summer
+T0332,2024-09-09,Soda,Beverages,4,5.25,29,Male,"San Jose, CA",Fall
+T0333,2024-11-11,Pumpkin Pie,Bakery,9,3.53,53,Male,"Houston, TX",Fall
+T0334,2024-04-09,Chicken Breast,Meat,8,7.41,32,Female,"San Diego, CA",Spring
+T0335,2024-08-09,Pork Chops,Meat,9,4.34,58,Male,"San Antonio, TX",Summer
+T0336,2024-08-17,Chicken Breast,Meat,3,7.85,56,Male,"San Antonio, TX",Summer
+T0337,2024-02-21,Carrots,Produce,6,15.98,52,Female,"San Diego, CA",Winter
+T0338,2024-04-12,Bananas,Produce,6,17.19,68,Female,"Los Angeles, CA",Spring
+T0339,2024-04-26,Croissant,Bakery,7,3.26,64,Male,"Chicago, IL",Spring
+T0340,2024-08-20,Croissant,Bakery,3,0.53,26,Female,"Philadelphia, PA",Summer
+T0341,2024-07-04,Bananas,Produce,8,17.03,41,Male,"Chicago, IL",Summer
+T0342,2024-08-14,Bananas,Produce,5,15.31,28,Male,"Philadelphia, PA",Summer
+T0343,2024-09-26,Bananas,Produce,10,10.9,56,Male,"New York, NY",Fall
+T0344,2024-03-03,Bananas,Produce,6,5.61,70,Male,"San Diego, CA",Spring
+T0345,2024-10-28,Ice Cream,Frozen,5,19.3,48,Male,"Chicago, IL",Fall
+T0346,2024-10-04,Carrots,Produce,7,3.45,54,Female,"Philadelphia, PA",Fall
+T0347,2024-01-10,Whole Wheat Bread,Bakery,3,17.41,35,Male,"San Jose, CA",Winter
+T0348,2024-02-03,Apples,Produce,9,18.74,62,Male,"Philadelphia, PA",Winter
+T0349,2024-04-03,Coffee,Beverages,7,9.58,34,Female,"New York, NY",Spring
+T0350,2024-09-21,Chicken Breast,Meat,3,8.22,23,Female,"San Diego, CA",Fall
+T0351,2024-10-26,Orange Juice,Beverages,6,6.49,63,Male,"San Antonio, TX",Fall
+T0352,2024-11-14,Croissant,Bakery,2,0.71,33,Male,"Los Angeles, CA",Fall
+T0353,2024-11-03,Chicken Breast,Meat,8,5.74,39,Male,"Houston, TX",Fall
+T0354,2024-07-24,Frozen Peas,Frozen,10,4.9,64,Male,"Phoenix, AZ",Summer
+T0355,2024-11-02,Whole Wheat Bread,Bakery,5,11.32,58,Female,"Chicago, IL",Fall
+T0356,2024-08-15,Soda,Beverages,8,16.98,59,Male,"Los Angeles, CA",Summer
+T0357,2024-11-28,Ice Cream,Frozen,8,16.81,56,Female,"Dallas, TX",Fall
+T0358,2024-09-28,Frozen Pizza,Frozen,3,11.79,65,Female,"Chicago, IL",Fall
+T0359,2024-06-01,Coffee,Beverages,6,14.36,53,Female,"Chicago, IL",Summer
+T0360,2024-10-03,Ground Beef,Meat,5,8.48,57,Female,"Los Angeles, CA",Fall
+T0361,2024-10-19,Cheddar Cheese,Dairy,3,10.16,19,Female,"San Diego, CA",Fall
+T0362,2024-06-27,Pumpkin Pie,Bakery,7,12.36,65,Male,"Philadelphia, PA",Summer
+T0363,2024-09-19,Frozen Pizza,Frozen,7,9.27,43,Male,"San Diego, CA",Fall
+T0364,2024-03-22,Chicken Breast,Meat,1,2.52,27,Female,"San Diego, CA",Spring
+T0365,2024-12-18,Carrots,Produce,7,14.58,22,Male,"San Jose, CA",Winter
+T0366,2024-09-07,Cheddar Cheese,Dairy,4,7.89,53,Male,"San Jose, CA",Fall
+T0367,2024-08-02,Ground Beef,Meat,4,17.62,53,Male,"Philadelphia, PA",Summer
+T0368,2024-05-13,Pork Chops,Meat,6,2.36,57,Female,"San Diego, CA",Spring
+T0369,2024-04-28,Croissant,Bakery,2,18.83,28,Female,"Los Angeles, CA",Spring
+T0370,2024-04-05,Yogurt,Dairy,3,3.53,41,Male,"San Jose, CA",Spring
+T0371,2024-03-01,Cheddar Cheese,Dairy,6,9.4,32,Male,"Philadelphia, PA",Spring
+T0372,2024-10-11,Bananas,Produce,5,9.76,55,Female,"Phoenix, AZ",Fall
+T0373,2024-05-13,Pumpkin Pie,Bakery,4,11.0,65,Female,"San Antonio, TX",Spring
+T0374,2024-09-16,Ground Beef,Meat,2,19.5,46,Female,"Dallas, TX",Fall
+T0375,2024-01-16,Soda,Beverages,6,17.15,57,Male,"Phoenix, AZ",Winter
+T0376,2024-08-20,Frozen Pizza,Frozen,2,11.55,33,Male,"San Diego, CA",Summer
+T0377,2024-01-18,Chicken Breast,Meat,6,8.99,42,Male,"San Antonio, TX",Winter
+T0378,2024-10-24,Pork Chops,Meat,7,5.89,41,Female,"New York, NY",Fall
+T0379,2024-12-27,Chicken Breast,Meat,6,18.84,33,Female,"Los Angeles, CA",Winter
+T0380,2024-01-28,Ground Beef,Meat,6,0.61,54,Female,"Chicago, IL",Winter
+T0381,2024-05-18,Frozen Pizza,Frozen,6,4.12,18,Female,"Dallas, TX",Spring
+T0382,2024-11-09,Pumpkin Pie,Bakery,7,19.74,26,Female,"Los Angeles, CA",Fall
+T0383,2024-07-27,Coffee,Beverages,8,13.98,38,Female,"Houston, TX",Summer
+T0384,2024-09-16,Pumpkin Pie,Bakery,10,18.79,47,Male,"San Diego, CA",Fall
+T0385,2024-06-06,Coffee,Beverages,2,16.72,63,Female,"Phoenix, AZ",Summer
+T0386,2024-08-04,Ground Beef,Meat,10,6.5,26,Male,"San Antonio, TX",Summer
+T0387,2024-09-12,Croissant,Bakery,2,19.74,26,Male,"Dallas, TX",Fall
+T0388,2024-05-04,Carrots,Produce,7,15.74,49,Female,"New York, NY",Spring
+T0389,2024-12-08,Croissant,Bakery,7,9.15,28,Female,"San Jose, CA",Winter
+T0390,2024-06-08,Ground Beef,Meat,5,1.99,34,Female,"Philadelphia, PA",Summer
+T0391,2024-02-24,Pork Chops,Meat,3,10.24,42,Female,"Philadelphia, PA",Winter
+T0392,2024-10-13,Chicken Breast,Meat,6,10.15,39,Male,"San Diego, CA",Fall
+T0393,2024-03-12,Cheddar Cheese,Dairy,7,5.09,47,Female,"Chicago, IL",Spring
+T0394,2024-12-01,Ice Cream,Frozen,9,9.56,61,Male,"San Antonio, TX",Winter
+T0395,2024-10-18,Soda,Beverages,6,12.46,63,Female,"San Diego, CA",Fall
+T0396,2024-12-20,Pumpkin Pie,Bakery,1,16.23,67,Male,"New York, NY",Winter
+T0397,2024-12-19,Ice Cream,Frozen,5,8.02,18,Female,"Los Angeles, CA",Winter
+T0398,2024-06-14,Frozen Pizza,Frozen,10,19.36,67,Male,"Phoenix, AZ",Summer
+T0399,2024-05-14,Ground Beef,Meat,2,19.8,63,Male,"San Antonio, TX",Spring
+T0400,2024-11-01,Pork Chops,Meat,3,5.36,31,Male,"Los Angeles, CA",Fall
+T0401,2024-11-25,Bananas,Produce,7,17.56,27,Male,"Houston, TX",Fall
+T0402,2024-11-20,Pork Chops,Meat,7,5.52,27,Female,"Phoenix, AZ",Fall
+T0403,2024-03-12,Whole Wheat Bread,Bakery,3,17.19,58,Male,"Philadelphia, PA",Spring
+T0404,2024-04-12,Carrots,Produce,5,7.39,32,Female,"Philadelphia, PA",Spring
+T0405,2024-10-08,Carrots,Produce,8,11.03,55,Male,"San Antonio, TX",Fall
+T0406,2024-01-06,Pumpkin Pie,Bakery,3,6.72,61,Female,"Chicago, IL",Winter
+T0407,2024-04-11,Yogurt,Dairy,10,4.33,43,Male,"Houston, TX",Spring
+T0408,2024-04-28,Apples,Produce,8,7.26,59,Male,"Chicago, IL",Spring
+T0409,2024-05-03,Whole Milk,Dairy,7,14.72,56,Male,"Philadelphia, PA",Spring
+T0410,2024-04-01,Frozen Peas,Frozen,8,13.23,67,Male,"Dallas, TX",Spring
+T0411,2024-03-15,Soda,Beverages,2,13.16,56,Female,"Los Angeles, CA",Spring
+T0412,2024-10-19,Whole Wheat Bread,Bakery,10,1.52,62,Male,"New York, NY",Fall
+T0413,2024-07-10,Pork Chops,Meat,2,8.65,68,Male,"Phoenix, AZ",Summer
+T0414,2024-06-07,Ground Beef,Meat,3,2.17,54,Male,"Chicago, IL",Summer
+T0415,2024-12-21,Yogurt,Dairy,10,2.46,27,Male,"Phoenix, AZ",Winter
+T0416,2024-12-04,Frozen Peas,Frozen,7,7.16,44,Female,"San Diego, CA",Winter
+T0417,2024-09-25,Soda,Beverages,2,14.29,63,Male,"Phoenix, AZ",Fall
+T0418,2024-04-23,Ice Cream,Frozen,5,15.51,64,Female,"Chicago, IL",Spring
+T0419,2024-04-24,Frozen Peas,Frozen,3,19.11,23,Female,"Dallas, TX",Spring
+T0420,2024-02-05,Frozen Peas,Frozen,9,12.44,60,Female,"Phoenix, AZ",Winter
+T0421,2024-11-27,Orange Juice,Beverages,2,7.41,51,Female,"Dallas, TX",Fall
+T0422,2024-02-28,Apples,Produce,3,8.24,19,Female,"Los Angeles, CA",Winter
+T0423,2024-02-02,Apples,Produce,8,19.24,45,Female,"Los Angeles, CA",Winter
+T0424,2024-02-14,Pork Chops,Meat,1,5.85,40,Male,"Houston, TX",Winter
+T0425,2024-04-13,Whole Wheat Bread,Bakery,6,8.79,40,Female,"Dallas, TX",Spring
+T0426,2024-06-18,Chicken Breast,Meat,3,14.83,22,Male,"New York, NY",Summer
+T0427,2024-09-08,Yogurt,Dairy,1,1.75,57,Female,"Los Angeles, CA",Fall
+T0428,2024-01-01,Carrots,Produce,10,15.57,66,Female,"Chicago, IL",Winter
+T0429,2024-12-03,Coffee,Beverages,9,3.15,30,Male,"New York, NY",Winter
+T0430,2024-02-05,Coffee,Beverages,1,14.9,59,Male,"San Jose, CA",Winter
+T0431,2024-11-08,Apples,Produce,6,15.12,36,Male,"San Jose, CA",Fall
+T0432,2024-02-16,Frozen Pizza,Frozen,3,13.69,30,Male,"Chicago, IL",Winter
+T0433,2024-11-23,Pumpkin Pie,Bakery,5,14.41,61,Female,"San Diego, CA",Fall
+T0434,2024-07-13,Orange Juice,Beverages,9,5.22,27,Female,"Philadelphia, PA",Summer
+T0435,2024-03-15,Pumpkin Pie,Bakery,10,14.05,47,Male,"New York, NY",Spring
+T0436,2024-05-01,Pumpkin Pie,Bakery,9,6.36,51,Male,"San Jose, CA",Spring
+T0437,2024-07-10,Pork Chops,Meat,2,4.93,63,Female,"Houston, TX",Summer
+T0438,2024-11-23,Ground Beef,Meat,6,16.54,37,Male,"Houston, TX",Fall
+T0439,2024-06-25,Whole Milk,Dairy,10,11.14,67,Male,"San Antonio, TX",Summer
+T0440,2024-08-16,Orange Juice,Beverages,1,13.88,63,Male,"San Jose, CA",Summer
+T0441,2024-09-26,Bananas,Produce,5,16.99,42,Male,"San Antonio, TX",Fall
+T0442,2024-10-02,Whole Milk,Dairy,8,4.43,43,Male,"San Diego, CA",Fall
+T0443,2024-03-09,Chicken Breast,Meat,8,4.24,60,Male,"San Antonio, TX",Spring
+T0444,2024-09-12,Coffee,Beverages,3,7.64,29,Female,"Dallas, TX",Fall
+T0445,2024-04-06,Bananas,Produce,6,1.18,59,Male,"San Diego, CA",Spring
+T0446,2024-06-27,Yogurt,Dairy,4,12.29,59,Male,"Houston, TX",Summer
+T0447,2024-07-06,Ice Cream,Frozen,6,9.41,43,Male,"Los Angeles, CA",Summer
+T0448,2024-01-12,Frozen Pizza,Frozen,6,10.88,57,Male,"Dallas, TX",Winter
+T0449,2024-11-02,Frozen Peas,Frozen,4,4.15,48,Female,"Houston, TX",Fall
+T0450,2024-10-12,Pork Chops,Meat,1,17.84,60,Female,"New York, NY",Fall
+T0451,2024-08-19,Whole Wheat Bread,Bakery,8,16.49,35,Female,"Philadelphia, PA",Summer
+T0452,2024-08-18,Soda,Beverages,4,10.55,19,Female,"Dallas, TX",Summer
+T0453,2024-06-23,Whole Milk,Dairy,3,6.86,26,Male,"New York, NY",Summer
+T0454,2024-05-07,Frozen Pizza,Frozen,8,15.95,66,Female,"San Diego, CA",Spring
+T0455,2024-09-05,Whole Wheat Bread,Bakery,9,1.86,70,Male,"Dallas, TX",Fall
+T0456,2024-04-16,Frozen Pizza,Frozen,8,15.6,24,Female,"San Antonio, TX",Spring
+T0457,2024-04-04,Yogurt,Dairy,3,16.95,46,Female,"Houston, TX",Spring
+T0458,2024-05-18,Frozen Peas,Frozen,1,6.11,49,Male,"Dallas, TX",Spring
+T0459,2024-07-28,Croissant,Bakery,5,13.05,47,Female,"San Jose, CA",Summer
+T0460,2024-06-11,Pumpkin Pie,Bakery,8,6.12,30,Female,"Dallas, TX",Summer
+T0461,2024-01-08,Frozen Peas,Frozen,6,14.31,35,Male,"San Jose, CA",Winter
+T0462,2024-12-21,Frozen Peas,Frozen,1,2.81,65,Female,"San Jose, CA",Winter
+T0463,2024-07-23,Chicken Breast,Meat,3,7.65,65,Female,"San Antonio, TX",Summer
+T0464,2024-10-03,Whole Milk,Dairy,1,3.82,30,Male,"New York, NY",Fall
+T0465,2024-05-11,Coffee,Beverages,10,16.55,67,Female,"New York, NY",Spring
+T0466,2024-07-28,Croissant,Bakery,7,1.77,29,Male,"New York, NY",Summer
+T0467,2024-08-26,Bananas,Produce,2,19.47,36,Female,"New York, NY",Summer
+T0468,2024-02-19,Croissant,Bakery,7,18.15,30,Female,"San Jose, CA",Winter
+T0469,2024-07-16,Chicken Breast,Meat,9,15.22,65,Female,"San Diego, CA",Summer
+T0470,2024-01-14,Orange Juice,Beverages,7,11.5,23,Male,"Houston, TX",Winter
+T0471,2024-03-22,Ice Cream,Frozen,2,11.71,59,Female,"San Jose, CA",Spring
+T0472,2024-04-09,Chicken Breast,Meat,8,19.31,39,Male,"Phoenix, AZ",Spring
+T0473,2024-06-07,Soda,Beverages,5,8.76,58,Female,"San Antonio, TX",Summer
+T0474,2024-06-16,Croissant,Bakery,1,5.33,18,Female,"San Diego, CA",Summer
+T0475,2024-03-01,Bananas,Produce,1,4.62,35,Male,"Philadelphia, PA",Spring
+T0476,2024-10-20,Pumpkin Pie,Bakery,9,6.67,43,Male,"San Antonio, TX",Fall
+T0477,2024-06-26,Bananas,Produce,5,17.71,62,Male,"San Jose, CA",Summer
+T0478,2024-02-09,Apples,Produce,10,15.89,53,Female,"San Diego, CA",Winter
+T0479,2024-12-23,Orange Juice,Beverages,5,8.64,39,Female,"San Jose, CA",Winter
+T0480,2024-03-18,Carrots,Produce,4,16.11,54,Male,"Dallas, TX",Spring
+T0481,2024-10-11,Whole Milk,Dairy,6,6.76,61,Male,"Houston, TX",Fall
+T0482,2024-08-19,Apples,Produce,6,0.92,58,Female,"Chicago, IL",Summer
+T0483,2024-02-15,Croissant,Bakery,9,3.55,19,Female,"San Jose, CA",Winter
+T0484,2024-04-12,Frozen Peas,Frozen,5,7.46,58,Male,"Chicago, IL",Spring
+T0485,2024-06-28,Cheddar Cheese,Dairy,3,13.93,35,Female,"Phoenix, AZ",Summer
+T0486,2024-10-02,Bananas,Produce,5,12.84,51,Male,"San Antonio, TX",Fall
+T0487,2024-01-13,Whole Wheat Bread,Bakery,8,15.09,70,Male,"San Antonio, TX",Winter
+T0488,2024-12-05,Whole Milk,Dairy,6,15.75,28,Female,"San Antonio, TX",Winter
+T0489,2024-04-21,Yogurt,Dairy,5,5.4,30,Female,"San Antonio, TX",Spring
+T0490,2024-04-09,Ice Cream,Frozen,6,10.13,63,Female,"San Jose, CA",Spring
+T0491,2024-06-18,Whole Wheat Bread,Bakery,9,9.47,69,Male,"Dallas, TX",Summer
+T0492,2024-03-19,Yogurt,Dairy,3,6.82,30,Female,"San Antonio, TX",Spring
+T0493,2024-02-06,Whole Wheat Bread,Bakery,10,7.3,69,Female,"San Diego, CA",Winter
+T0494,2024-06-12,Apples,Produce,8,19.55,64,Female,"Philadelphia, PA",Summer
+T0495,2024-02-26,Orange Juice,Beverages,10,10.84,18,Male,"Philadelphia, PA",Winter
+T0496,2024-11-03,Frozen Peas,Frozen,6,8.33,56,Male,"San Antonio, TX",Fall
+T0497,2024-04-04,Carrots,Produce,10,14.11,68,Female,"San Diego, CA",Spring
+T0498,2024-07-06,Soda,Beverages,9,19.13,65,Female,"San Antonio, TX",Summer
+T0499,2024-10-06,Orange Juice,Beverages,5,7.83,30,Male,"San Antonio, TX",Fall
+T0500,2024-02-09,Whole Milk,Dairy,3,17.86,24,Female,"San Diego, CA",Winter
+T0501,2024-04-07,Whole Wheat Bread,Bakery,3,17.23,66,Female,"Chicago, IL",Spring
+T0502,2024-11-17,Soda,Beverages,4,13.38,56,Female,"Houston, TX",Fall
+T0503,2024-05-15,Frozen Peas,Frozen,1,4.31,34,Male,"Los Angeles, CA",Spring
+T0504,2024-03-28,Yogurt,Dairy,5,13.31,60,Female,"Houston, TX",Spring
+T0505,2024-07-26,Whole Milk,Dairy,10,11.69,42,Male,"Los Angeles, CA",Summer
+T0506,2024-12-20,Frozen Peas,Frozen,10,9.28,38,Male,"Phoenix, AZ",Winter
+T0507,2024-07-25,Carrots,Produce,10,8.79,34,Female,"New York, NY",Summer
+T0508,2024-07-04,Whole Wheat Bread,Bakery,7,17.45,62,Female,"Houston, TX",Summer
+T0509,2024-01-14,Soda,Beverages,3,15.96,70,Male,"San Antonio, TX",Winter
+T0510,2024-03-26,Pumpkin Pie,Bakery,3,7.38,69,Female,"Houston, TX",Spring
+T0511,2024-05-14,Whole Wheat Bread,Bakery,3,17.41,41,Female,"San Diego, CA",Spring
+T0512,2024-11-03,Coffee,Beverages,5,5.69,24,Female,"Houston, TX",Fall
+T0513,2024-07-08,Ice Cream,Frozen,3,7.41,56,Male,"Los Angeles, CA",Summer
+T0514,2024-10-15,Ice Cream,Frozen,3,6.19,60,Male,"Philadelphia, PA",Fall
+T0515,2024-06-03,Whole Milk,Dairy,5,16.48,20,Male,"Houston, TX",Summer
+T0516,2024-05-08,Whole Wheat Bread,Bakery,2,18.52,40,Male,"San Jose, CA",Spring
+T0517,2024-03-06,Carrots,Produce,6,13.69,39,Male,"New York, NY",Spring
+T0518,2024-07-16,Chicken Breast,Meat,2,12.64,49,Female,"Philadelphia, PA",Summer
+T0519,2024-11-28,Carrots,Produce,8,18.5,41,Female,"San Jose, CA",Fall
+T0520,2024-10-05,Cheddar Cheese,Dairy,1,7.59,21,Female,"San Jose, CA",Fall
+T0521,2024-10-27,Cheddar Cheese,Dairy,5,8.53,64,Male,"San Diego, CA",Fall
+T0522,2024-04-02,Apples,Produce,8,7.18,69,Female,"San Jose, CA",Spring
+T0523,2024-01-14,Orange Juice,Beverages,5,19.08,32,Male,"Chicago, IL",Winter
+T0524,2024-03-06,Carrots,Produce,9,15.03,47,Male,"Dallas, TX",Spring
+T0525,2024-03-01,Frozen Pizza,Frozen,5,17.93,58,Male,"Dallas, TX",Spring
+T0526,2024-04-25,Pumpkin Pie,Bakery,5,9.07,20,Female,"Houston, TX",Spring
+T0527,2024-04-13,Whole Milk,Dairy,3,4.61,49,Male,"Los Angeles, CA",Spring
+T0528,2024-05-26,Orange Juice,Beverages,4,17.25,61,Male,"Dallas, TX",Spring
+T0529,2024-12-23,Ground Beef,Meat,1,1.97,25,Male,"Los Angeles, CA",Winter
+T0530,2024-08-12,Ground Beef,Meat,3,14.47,61,Female,"Chicago, IL",Summer
+T0531,2024-11-17,Frozen Pizza,Frozen,5,11.05,70,Female,"Chicago, IL",Fall
+T0532,2024-05-22,Yogurt,Dairy,7,9.04,51,Male,"Chicago, IL",Spring
+T0533,2024-11-01,Frozen Peas,Frozen,2,8.48,56,Male,"Houston, TX",Fall
+T0534,2024-10-06,Croissant,Bakery,10,1.82,62,Male,"Dallas, TX",Fall
+T0535,2024-10-15,Croissant,Bakery,6,10.59,21,Female,"New York, NY",Fall
+T0536,2024-09-24,Frozen Peas,Frozen,5,18.91,50,Female,"San Diego, CA",Fall
+T0537,2024-01-07,Cheddar Cheese,Dairy,6,16.49,69,Female,"New York, NY",Winter
+T0538,2024-06-13,Frozen Pizza,Frozen,2,15.49,33,Female,"Phoenix, AZ",Summer
+T0539,2024-04-23,Yogurt,Dairy,2,10.36,50,Female,"Dallas, TX",Spring
+T0540,2024-07-27,Croissant,Bakery,5,10.75,18,Male,"Phoenix, AZ",Summer
+T0541,2024-07-09,Frozen Peas,Frozen,5,5.99,29,Male,"New York, NY",Summer
+T0542,2024-11-21,Ground Beef,Meat,9,15.13,59,Female,"Philadelphia, PA",Fall
+T0543,2024-01-28,Cheddar Cheese,Dairy,3,13.77,26,Male,"San Jose, CA",Winter
+T0544,2024-07-06,Pork Chops,Meat,7,12.14,29,Female,"Houston, TX",Summer
+T0545,2024-08-21,Apples,Produce,7,11.91,35,Female,"Dallas, TX",Summer
+T0546,2024-02-10,Frozen Peas,Frozen,2,7.97,68,Male,"San Antonio, TX",Winter
+T0547,2024-07-26,Whole Milk,Dairy,6,15.38,42,Male,"Los Angeles, CA",Summer
+T0548,2024-06-20,Ground Beef,Meat,1,2.09,49,Male,"San Jose, CA",Summer
+T0549,2024-03-02,Cheddar Cheese,Dairy,8,9.45,51,Female,"Los Angeles, CA",Spring
+T0550,2024-01-10,Frozen Peas,Frozen,6,4.32,44,Female,"Dallas, TX",Winter
+T0551,2024-02-22,Ice Cream,Frozen,8,16.67,44,Male,"Los Angeles, CA",Winter
+T0552,2024-07-27,Frozen Pizza,Frozen,8,17.13,64,Female,"Phoenix, AZ",Summer
+T0553,2024-08-14,Coffee,Beverages,2,6.53,51,Male,"New York, NY",Summer
+T0554,2024-12-28,Ground Beef,Meat,4,17.34,65,Male,"San Jose, CA",Winter
+T0555,2024-07-27,Whole Milk,Dairy,4,3.98,42,Female,"Dallas, TX",Summer
+T0556,2024-12-24,Ice Cream,Frozen,3,12.61,66,Male,"Phoenix, AZ",Winter
+T0557,2024-10-11,Croissant,Bakery,1,16.35,19,Male,"Chicago, IL",Fall
+T0558,2024-06-06,Cheddar Cheese,Dairy,3,17.26,43,Female,"New York, NY",Summer
+T0559,2024-07-23,Soda,Beverages,1,13.6,28,Male,"Houston, TX",Summer
+T0560,2024-08-22,Chicken Breast,Meat,2,16.52,55,Male,"Phoenix, AZ",Summer
+T0561,2024-08-19,Pumpkin Pie,Bakery,8,0.85,58,Female,"Los Angeles, CA",Summer
+T0562,2024-01-09,Frozen Pizza,Frozen,7,5.31,46,Female,"Chicago, IL",Winter
+T0563,2024-02-06,Coffee,Beverages,7,7.0,63,Female,"Houston, TX",Winter
+T0564,2024-11-21,Orange Juice,Beverages,1,5.67,27,Male,"Philadelphia, PA",Fall
+T0565,2024-07-10,Cheddar Cheese,Dairy,8,11.63,37,Male,"San Antonio, TX",Summer
+T0566,2024-05-03,Coffee,Beverages,8,17.24,58,Male,"San Jose, CA",Spring
+T0567,2024-10-01,Ice Cream,Frozen,7,15.37,46,Female,"San Jose, CA",Fall
+T0568,2024-10-06,Pork Chops,Meat,1,15.08,50,Male,"Philadelphia, PA",Fall
+T0569,2024-10-03,Whole Milk,Dairy,10,17.08,31,Male,"Philadelphia, PA",Fall
+T0570,2024-10-16,Croissant,Bakery,4,4.56,67,Female,"San Antonio, TX",Fall
+T0571,2024-04-04,Carrots,Produce,3,5.89,18,Male,"Chicago, IL",Spring
+T0572,2024-05-01,Soda,Beverages,9,19.41,55,Male,"Philadelphia, PA",Spring
+T0573,2024-01-26,Cheddar Cheese,Dairy,2,9.66,27,Male,"Los Angeles, CA",Winter
+T0574,2024-11-26,Chicken Breast,Meat,6,15.45,47,Female,"New York, NY",Fall
+T0575,2024-05-17,Frozen Pizza,Frozen,8,0.93,60,Male,"Houston, TX",Spring
+T0576,2024-05-08,Pork Chops,Meat,3,9.65,22,Male,"Chicago, IL",Spring
+T0577,2024-03-09,Soda,Beverages,10,5.3,39,Male,"Houston, TX",Spring
+T0578,2024-02-27,Coffee,Beverages,2,18.92,39,Female,"Los Angeles, CA",Winter
+T0579,2024-09-23,Croissant,Bakery,5,10.31,60,Male,"San Diego, CA",Fall
+T0580,2024-12-20,Soda,Beverages,10,16.53,29,Male,"Phoenix, AZ",Winter
+T0581,2024-08-20,Whole Wheat Bread,Bakery,5,3.35,67,Female,"New York, NY",Summer
+T0582,2024-12-19,Whole Wheat Bread,Bakery,2,16.85,46,Female,"Phoenix, AZ",Winter
+T0583,2024-06-16,Frozen Pizza,Frozen,8,19.66,38,Female,"Dallas, TX",Summer
+T0584,2024-01-04,Orange Juice,Beverages,3,0.77,18,Female,"Philadelphia, PA",Winter
+T0585,2024-11-05,Croissant,Bakery,8,10.09,27,Female,"Dallas, TX",Fall
+T0586,2024-11-26,Yogurt,Dairy,3,17.33,47,Female,"New York, NY",Fall
+T0587,2024-08-27,Whole Wheat Bread,Bakery,1,13.04,34,Female,"Phoenix, AZ",Summer
+T0588,2024-07-28,Whole Milk,Dairy,9,13.91,45,Male,"Dallas, TX",Summer
+T0589,2024-02-22,Pork Chops,Meat,5,13.31,52,Male,"San Antonio, TX",Winter
+T0590,2024-08-23,Coffee,Beverages,7,4.44,57,Female,"San Antonio, TX",Summer
+T0591,2024-01-21,Whole Wheat Bread,Bakery,7,2.32,61,Female,"Philadelphia, PA",Winter
+T0592,2024-10-06,Pork Chops,Meat,8,1.28,25,Male,"Los Angeles, CA",Fall
+T0593,2024-04-11,Whole Milk,Dairy,6,15.02,19,Male,"Philadelphia, PA",Spring
+T0594,2024-06-22,Frozen Peas,Frozen,10,17.82,27,Female,"New York, NY",Summer
+T0595,2024-06-28,Orange Juice,Beverages,4,8.98,30,Female,"Dallas, TX",Summer
+T0596,2024-05-01,Ice Cream,Frozen,3,13.71,44,Male,"San Diego, CA",Spring
+T0597,2024-05-27,Apples,Produce,4,19.2,65,Male,"Dallas, TX",Spring
+T0598,2024-10-01,Cheddar Cheese,Dairy,2,14.75,54,Male,"Los Angeles, CA",Fall
+T0599,2024-04-19,Carrots,Produce,8,16.85,65,Female,"Dallas, TX",Spring
+T0600,2024-02-06,Whole Milk,Dairy,1,4.81,42,Male,"San Antonio, TX",Winter
+T0601,2024-08-07,Pork Chops,Meat,3,3.41,48,Female,"Phoenix, AZ",Summer
+T0602,2024-12-23,Ice Cream,Frozen,7,15.9,60,Male,"New York, NY",Winter
+T0603,2024-01-15,Frozen Peas,Frozen,5,17.58,40,Female,"Chicago, IL",Winter
+T0604,2024-11-16,Pumpkin Pie,Bakery,5,10.82,22,Male,"Philadelphia, PA",Fall
+T0605,2024-02-02,Cheddar Cheese,Dairy,6,1.24,64,Female,"Phoenix, AZ",Winter
+T0606,2024-12-28,Ice Cream,Frozen,4,0.75,56,Female,"New York, NY",Winter
+T0607,2024-10-20,Frozen Pizza,Frozen,2,6.79,18,Female,"Dallas, TX",Fall
+T0608,2024-05-05,Coffee,Beverages,8,1.83,45,Female,"New York, NY",Spring
+T0609,2024-04-28,Apples,Produce,4,2.94,66,Female,"New York, NY",Spring
+T0610,2024-10-17,Pork Chops,Meat,9,13.73,35,Female,"New York, NY",Fall
+T0611,2024-10-22,Pumpkin Pie,Bakery,5,1.15,30,Female,"San Diego, CA",Fall
+T0612,2024-02-21,Soda,Beverages,10,1.29,31,Male,"San Antonio, TX",Winter
+T0613,2024-03-26,Ground Beef,Meat,2,10.13,70,Female,"San Diego, CA",Spring
+T0614,2024-01-15,Pork Chops,Meat,7,1.64,41,Male,"San Jose, CA",Winter
+T0615,2024-07-14,Coffee,Beverages,1,10.85,41,Male,"San Antonio, TX",Summer
+T0616,2024-05-03,Soda,Beverages,9,18.83,25,Female,"San Jose, CA",Spring
+T0617,2024-11-05,Carrots,Produce,1,9.78,53,Female,"San Jose, CA",Fall
+T0618,2024-08-27,Cheddar Cheese,Dairy,7,7.44,33,Male,"San Diego, CA",Summer
+T0619,2024-03-02,Orange Juice,Beverages,5,9.02,38,Male,"New York, NY",Spring
+T0620,2024-02-02,Ground Beef,Meat,5,7.6,52,Male,"Phoenix, AZ",Winter
+T0621,2024-04-03,Chicken Breast,Meat,10,12.25,34,Male,"Houston, TX",Spring
+T0622,2024-10-15,Whole Milk,Dairy,6,8.22,54,Male,"San Diego, CA",Fall
+T0623,2024-12-04,Whole Milk,Dairy,5,19.75,68,Male,"San Jose, CA",Winter
+T0624,2024-06-13,Croissant,Bakery,9,8.54,53,Male,"San Diego, CA",Summer
+T0625,2024-05-04,Coffee,Beverages,7,4.48,70,Female,"Phoenix, AZ",Spring
+T0626,2024-11-04,Chicken Breast,Meat,2,18.3,50,Female,"Philadelphia, PA",Fall
+T0627,2024-09-10,Pumpkin Pie,Bakery,3,2.05,35,Female,"San Antonio, TX",Fall
+T0628,2024-10-18,Yogurt,Dairy,1,14.58,65,Female,"Philadelphia, PA",Fall
+T0629,2024-02-05,Coffee,Beverages,5,10.86,70,Male,"Phoenix, AZ",Winter
+T0630,2024-11-10,Frozen Peas,Frozen,1,11.06,21,Female,"Houston, TX",Fall
+T0631,2024-01-25,Frozen Pizza,Frozen,8,8.98,41,Female,"San Jose, CA",Winter
+T0632,2024-12-19,Yogurt,Dairy,5,9.22,51,Male,"San Antonio, TX",Winter
+T0633,2024-07-23,Ground Beef,Meat,9,17.47,31,Female,"New York, NY",Summer
+T0634,2024-03-20,Whole Milk,Dairy,1,14.42,66,Male,"San Diego, CA",Spring
+T0635,2024-02-11,Apples,Produce,7,7.71,64,Male,"New York, NY",Winter
+T0636,2024-03-08,Whole Milk,Dairy,7,7.88,52,Male,"New York, NY",Spring
+T0637,2024-07-13,Croissant,Bakery,3,8.6,51,Female,"San Antonio, TX",Summer
+T0638,2024-02-16,Frozen Peas,Frozen,9,3.98,32,Female,"San Antonio, TX",Winter
+T0639,2024-04-14,Coffee,Beverages,8,19.73,38,Female,"San Antonio, TX",Spring
+T0640,2024-05-05,Coffee,Beverages,6,13.62,35,Female,"Chicago, IL",Spring
+T0641,2024-09-07,Frozen Pizza,Frozen,3,11.85,43,Male,"Chicago, IL",Fall
+T0642,2024-11-22,Bananas,Produce,3,3.26,63,Male,"San Antonio, TX",Fall
+T0643,2024-01-15,Frozen Peas,Frozen,1,6.08,64,Male,"San Diego, CA",Winter
+T0644,2024-11-04,Ice Cream,Frozen,3,18.41,43,Female,"Houston, TX",Fall
+T0645,2024-06-10,Bananas,Produce,1,1.74,27,Female,"San Antonio, TX",Summer
+T0646,2024-05-07,Ground Beef,Meat,8,7.46,47,Male,"Los Angeles, CA",Spring
+T0647,2024-02-26,Bananas,Produce,8,12.09,35,Female,"Philadelphia, PA",Winter
+T0648,2024-04-18,Frozen Pizza,Frozen,1,6.33,40,Male,"San Antonio, TX",Spring
+T0649,2024-03-05,Pumpkin Pie,Bakery,2,4.91,18,Male,"San Antonio, TX",Spring
+T0650,2024-11-06,Pumpkin Pie,Bakery,4,4.84,52,Female,"Los Angeles, CA",Fall
+T0651,2024-01-17,Croissant,Bakery,8,6.27,46,Female,"San Diego, CA",Winter
+T0652,2024-12-18,Croissant,Bakery,4,14.5,42,Male,"San Antonio, TX",Winter
+T0653,2024-06-01,Pumpkin Pie,Bakery,6,16.11,25,Female,"San Jose, CA",Summer
+T0654,2024-01-16,Whole Wheat Bread,Bakery,6,10.65,50,Female,"San Antonio, TX",Winter
+T0655,2024-11-15,Whole Milk,Dairy,7,10.22,24,Female,"San Jose, CA",Fall
+T0656,2024-09-08,Frozen Peas,Frozen,2,10.34,54,Male,"New York, NY",Fall
+T0657,2024-02-11,Pumpkin Pie,Bakery,6,15.21,36,Female,"Los Angeles, CA",Winter
+T0658,2024-12-16,Pork Chops,Meat,1,8.44,20,Male,"Dallas, TX",Winter
+T0659,2024-08-10,Bananas,Produce,10,16.16,43,Female,"New York, NY",Summer
+T0660,2024-11-08,Ground Beef,Meat,7,1.65,36,Male,"San Jose, CA",Fall
+T0661,2024-11-11,Yogurt,Dairy,8,1.58,22,Female,"Los Angeles, CA",Fall
+T0662,2024-07-25,Apples,Produce,3,3.61,27,Male,"Phoenix, AZ",Summer
+T0663,2024-03-26,Yogurt,Dairy,7,1.66,18,Male,"San Jose, CA",Spring
+T0664,2024-09-03,Soda,Beverages,2,2.79,34,Male,"Houston, TX",Fall
+T0665,2024-07-28,Carrots,Produce,6,7.48,31,Female,"Chicago, IL",Summer
+T0666,2024-01-25,Carrots,Produce,9,1.66,20,Female,"Los Angeles, CA",Winter
+T0667,2024-01-27,Frozen Pizza,Frozen,8,15.55,41,Male,"Los Angeles, CA",Winter
+T0668,2024-05-25,Whole Milk,Dairy,2,1.65,27,Male,"San Diego, CA",Spring
+T0669,2024-11-21,Frozen Peas,Frozen,8,13.64,60,Male,"Houston, TX",Fall
+T0670,2024-07-07,Pumpkin Pie,Bakery,1,3.22,53,Male,"Chicago, IL",Summer
+T0671,2024-02-06,Soda,Beverages,2,6.91,19,Male,"Chicago, IL",Winter
+T0672,2024-03-14,Bananas,Produce,10,6.43,43,Female,"Chicago, IL",Spring
+T0673,2024-08-23,Ice Cream,Frozen,8,19.87,40,Female,"Chicago, IL",Summer
+T0674,2024-06-18,Yogurt,Dairy,1,5.65,55,Female,"Los Angeles, CA",Summer
+T0675,2024-11-26,Frozen Pizza,Frozen,7,8.12,62,Male,"San Diego, CA",Fall
+T0676,2024-06-04,Frozen Pizza,Frozen,5,5.74,44,Male,"San Jose, CA",Summer
+T0677,2024-08-28,Yogurt,Dairy,7,11.5,20,Female,"New York, NY",Summer
+T0678,2024-03-12,Ice Cream,Frozen,4,13.83,21,Male,"Los Angeles, CA",Spring
+T0679,2024-02-04,Chicken Breast,Meat,6,12.22,37,Male,"San Diego, CA",Winter
+T0680,2024-01-14,Carrots,Produce,5,2.49,34,Male,"Chicago, IL",Winter
+T0681,2024-07-06,Frozen Peas,Frozen,5,13.22,58,Female,"Dallas, TX",Summer
+T0682,2024-02-08,Apples,Produce,6,16.45,22,Male,"San Diego, CA",Winter
+T0683,2024-09-16,Ground Beef,Meat,4,1.37,34,Female,"San Antonio, TX",Fall
+T0684,2024-09-14,Croissant,Bakery,7,5.83,45,Female,"Philadelphia, PA",Fall
+T0685,2024-12-18,Frozen Pizza,Frozen,6,7.17,54,Male,"San Jose, CA",Winter
+T0686,2024-02-12,Pork Chops,Meat,3,17.65,34,Female,"New York, NY",Winter
+T0687,2024-01-06,Yogurt,Dairy,10,3.35,68,Female,"Dallas, TX",Winter
+T0688,2024-10-27,Chicken Breast,Meat,5,5.96,28,Female,"Houston, TX",Fall
+T0689,2024-11-03,Apples,Produce,10,16.68,65,Male,"Los Angeles, CA",Fall
+T0690,2024-07-11,Whole Wheat Bread,Bakery,10,14.64,30,Male,"Chicago, IL",Summer
+T0691,2024-10-11,Apples,Produce,5,7.23,45,Female,"Dallas, TX",Fall
+T0692,2024-10-10,Frozen Peas,Frozen,10,6.49,53,Female,"New York, NY",Fall
+T0693,2024-05-01,Orange Juice,Beverages,2,0.71,34,Female,"San Jose, CA",Spring
+T0694,2024-03-07,Yogurt,Dairy,6,3.72,55,Male,"Chicago, IL",Spring
+T0695,2024-12-22,Apples,Produce,7,10.69,35,Female,"Houston, TX",Winter
+T0696,2024-04-12,Cheddar Cheese,Dairy,5,13.56,56,Female,"Houston, TX",Spring
+T0697,2024-08-18,Cheddar Cheese,Dairy,8,3.26,30,Male,"Phoenix, AZ",Summer
+T0698,2024-09-02,Yogurt,Dairy,6,14.3,53,Female,"Phoenix, AZ",Fall
+T0699,2024-10-21,Frozen Pizza,Frozen,4,1.29,57,Female,"Chicago, IL",Fall
+T0700,2024-08-20,Pork Chops,Meat,3,13.83,25,Male,"Phoenix, AZ",Summer
+T0701,2024-05-13,Frozen Pizza,Frozen,3,0.64,30,Male,"Chicago, IL",Spring
+T0702,2024-08-01,Ground Beef,Meat,1,1.21,20,Female,"San Antonio, TX",Summer
+T0703,2024-11-06,Yogurt,Dairy,2,3.87,68,Male,"Phoenix, AZ",Fall
+T0704,2024-11-22,Soda,Beverages,9,17.96,28,Female,"San Diego, CA",Fall
+T0705,2024-05-22,Croissant,Bakery,1,7.73,52,Male,"Philadelphia, PA",Spring
+T0706,2024-07-19,Frozen Pizza,Frozen,7,19.5,61,Male,"Philadelphia, PA",Summer
+T0707,2024-08-06,Coffee,Beverages,4,14.33,49,Male,"Los Angeles, CA",Summer
+T0708,2024-06-21,Bananas,Produce,8,6.09,58,Female,"Philadelphia, PA",Summer
+T0709,2024-06-28,Frozen Pizza,Frozen,3,1.39,37,Male,"Los Angeles, CA",Summer
+T0710,2024-11-23,Ice Cream,Frozen,1,17.13,56,Male,"San Diego, CA",Fall
+T0711,2024-08-18,Whole Wheat Bread,Bakery,7,15.14,41,Male,"Philadelphia, PA",Summer
+T0712,2024-05-01,Carrots,Produce,4,12.87,66,Male,"Phoenix, AZ",Spring
+T0713,2024-09-15,Frozen Peas,Frozen,2,2.39,61,Female,"Dallas, TX",Fall
+T0714,2024-02-14,Ice Cream,Frozen,1,9.87,34,Male,"Phoenix, AZ",Winter
+T0715,2024-06-15,Ice Cream,Frozen,10,9.13,39,Male,"Chicago, IL",Summer
+T0716,2024-12-13,Bananas,Produce,5,14.94,68,Male,"Los Angeles, CA",Winter
+T0717,2024-11-07,Whole Milk,Dairy,5,6.32,35,Female,"New York, NY",Fall
+T0718,2024-11-28,Chicken Breast,Meat,2,11.4,50,Male,"Dallas, TX",Fall
+T0719,2024-04-19,Pork Chops,Meat,3,2.63,58,Male,"Chicago, IL",Spring
+T0720,2024-10-17,Cheddar Cheese,Dairy,10,11.14,21,Male,"Los Angeles, CA",Fall
+T0721,2024-03-02,Cheddar Cheese,Dairy,1,6.95,24,Female,"San Jose, CA",Spring
+T0722,2024-02-11,Frozen Pizza,Frozen,8,17.28,67,Female,"Phoenix, AZ",Winter
+T0723,2024-04-14,Apples,Produce,4,14.27,52,Female,"San Antonio, TX",Spring
+T0724,2024-01-16,Orange Juice,Beverages,2,5.49,57,Male,"Phoenix, AZ",Winter
+T0725,2024-11-09,Pumpkin Pie,Bakery,4,3.79,54,Male,"Phoenix, AZ",Fall
+T0726,2024-08-23,Frozen Peas,Frozen,6,6.97,61,Male,"San Jose, CA",Summer
+T0727,2024-06-02,Soda,Beverages,5,13.29,34,Female,"New York, NY",Summer
+T0728,2024-10-20,Ground Beef,Meat,1,14.35,48,Male,"Chicago, IL",Fall
+T0729,2024-06-06,Yogurt,Dairy,8,8.36,19,Male,"San Diego, CA",Summer
+T0730,2024-01-13,Pork Chops,Meat,10,10.97,27,Female,"San Jose, CA",Winter
+T0731,2024-08-07,Soda,Beverages,1,2.61,35,Female,"Houston, TX",Summer
+T0732,2024-05-17,Chicken Breast,Meat,4,14.21,45,Male,"San Antonio, TX",Spring
+T0733,2024-08-24,Pork Chops,Meat,6,1.15,26,Female,"Philadelphia, PA",Summer
+T0734,2024-12-25,Ice Cream,Frozen,8,7.13,47,Male,"San Antonio, TX",Winter
+T0735,2024-07-14,Whole Wheat Bread,Bakery,7,12.95,61,Female,"Phoenix, AZ",Summer
+T0736,2024-01-11,Chicken Breast,Meat,3,12.39,63,Male,"Houston, TX",Winter
+T0737,2024-06-03,Whole Wheat Bread,Bakery,4,18.82,42,Male,"New York, NY",Summer
+T0738,2024-11-10,Cheddar Cheese,Dairy,8,4.12,28,Female,"Chicago, IL",Fall
+T0739,2024-09-16,Frozen Peas,Frozen,6,13.16,63,Female,"Dallas, TX",Fall
+T0740,2024-02-11,Soda,Beverages,6,2.95,66,Female,"Houston, TX",Winter
+T0741,2024-12-27,Yogurt,Dairy,6,17.62,67,Male,"San Jose, CA",Winter
+T0742,2024-06-07,Soda,Beverages,5,15.34,18,Male,"Los Angeles, CA",Summer
+T0743,2024-03-06,Croissant,Bakery,1,12.97,28,Male,"Phoenix, AZ",Spring
+T0744,2024-12-22,Pumpkin Pie,Bakery,9,9.09,22,Male,"Chicago, IL",Winter
+T0745,2024-08-15,Cheddar Cheese,Dairy,10,8.12,64,Male,"Houston, TX",Summer
+T0746,2024-02-12,Yogurt,Dairy,2,9.83,41,Male,"Houston, TX",Winter
+T0747,2024-10-15,Ice Cream,Frozen,3,1.34,51,Female,"New York, NY",Fall
+T0748,2024-04-11,Ground Beef,Meat,9,5.34,44,Female,"Philadelphia, PA",Spring
+T0749,2024-09-19,Apples,Produce,8,1.4,56,Male,"Phoenix, AZ",Fall
+T0750,2024-05-13,Cheddar Cheese,Dairy,7,8.59,36,Female,"Philadelphia, PA",Spring
+T0751,2024-10-11,Apples,Produce,1,10.93,59,Female,"San Diego, CA",Fall
+T0752,2024-06-13,Frozen Peas,Frozen,9,16.42,37,Female,"Los Angeles, CA",Summer
+T0753,2024-04-19,Croissant,Bakery,8,16.76,23,Male,"Chicago, IL",Spring
+T0754,2024-07-15,Chicken Breast,Meat,3,3.33,27,Male,"San Antonio, TX",Summer
+T0755,2024-03-27,Croissant,Bakery,6,7.9,44,Male,"San Jose, CA",Spring
+T0756,2024-08-08,Frozen Peas,Frozen,8,15.66,25,Female,"San Antonio, TX",Summer
+T0757,2024-03-24,Cheddar Cheese,Dairy,6,3.06,18,Male,"Philadelphia, PA",Spring
+T0758,2024-12-23,Ice Cream,Frozen,1,8.78,34,Female,"San Diego, CA",Winter
+T0759,2024-02-25,Whole Wheat Bread,Bakery,5,11.74,33,Female,"Houston, TX",Winter
+T0760,2024-04-14,Coffee,Beverages,4,1.29,41,Female,"Phoenix, AZ",Spring
+T0761,2024-01-18,Bananas,Produce,4,6.74,37,Female,"Philadelphia, PA",Winter
+T0762,2024-02-08,Pork Chops,Meat,6,18.25,32,Male,"Chicago, IL",Winter
+T0763,2024-07-23,Yogurt,Dairy,9,5.87,29,Male,"Chicago, IL",Summer
+T0764,2024-06-20,Pumpkin Pie,Bakery,7,5.62,48,Female,"Los Angeles, CA",Summer
+T0765,2024-03-10,Ice Cream,Frozen,4,8.12,23,Male,"Dallas, TX",Spring
+T0766,2024-04-01,Coffee,Beverages,4,3.34,62,Male,"San Antonio, TX",Spring
+T0767,2024-02-12,Croissant,Bakery,7,10.06,63,Male,"Los Angeles, CA",Winter
+T0768,2024-07-03,Cheddar Cheese,Dairy,8,13.41,59,Male,"Dallas, TX",Summer
+T0769,2024-05-18,Orange Juice,Beverages,7,3.15,49,Male,"Chicago, IL",Spring
+T0770,2024-07-15,Bananas,Produce,1,19.33,33,Male,"New York, NY",Summer
+T0771,2024-07-03,Yogurt,Dairy,3,4.51,41,Male,"San Antonio, TX",Summer
+T0772,2024-01-24,Coffee,Beverages,6,7.04,69,Male,"New York, NY",Winter
+T0773,2024-10-11,Frozen Pizza,Frozen,7,6.45,45,Female,"Chicago, IL",Fall
+T0774,2024-02-20,Pork Chops,Meat,10,12.21,18,Male,"Houston, TX",Winter
+T0775,2024-03-10,Whole Wheat Bread,Bakery,9,16.32,21,Female,"Los Angeles, CA",Spring
+T0776,2024-09-10,Ice Cream,Frozen,9,11.65,67,Male,"Los Angeles, CA",Fall
+T0777,2024-10-07,Croissant,Bakery,4,17.15,51,Female,"Phoenix, AZ",Fall
+T0778,2024-02-06,Carrots,Produce,6,16.6,42,Male,"Los Angeles, CA",Winter
+T0779,2024-08-09,Ground Beef,Meat,1,8.05,37,Male,"Chicago, IL",Summer
+T0780,2024-06-14,Whole Wheat Bread,Bakery,8,16.41,66,Male,"San Jose, CA",Summer
+T0781,2024-10-17,Croissant,Bakery,10,17.54,46,Male,"New York, NY",Fall
+T0782,2024-05-28,Coffee,Beverages,5,19.79,23,Male,"San Diego, CA",Spring
+T0783,2024-09-10,Bananas,Produce,1,13.88,50,Male,"Philadelphia, PA",Fall
+T0784,2024-10-17,Ground Beef,Meat,5,18.27,55,Female,"Philadelphia, PA",Fall
+T0785,2024-02-26,Soda,Beverages,9,16.11,59,Male,"Dallas, TX",Winter
+T0786,2024-07-14,Soda,Beverages,9,3.3,54,Male,"Phoenix, AZ",Summer
+T0787,2024-08-22,Cheddar Cheese,Dairy,6,19.49,67,Male,"Houston, TX",Summer
+T0788,2024-03-24,Orange Juice,Beverages,6,16.08,58,Female,"Philadelphia, PA",Spring
+T0789,2024-06-01,Apples,Produce,10,1.96,34,Female,"Philadelphia, PA",Summer
+T0790,2024-06-13,Carrots,Produce,3,10.54,36,Male,"Houston, TX",Summer
+T0791,2024-12-03,Ice Cream,Frozen,1,15.92,59,Female,"Phoenix, AZ",Winter
+T0792,2024-11-28,Coffee,Beverages,10,19.35,20,Female,"New York, NY",Fall
+T0793,2024-04-24,Whole Milk,Dairy,1,14.83,29,Male,"Phoenix, AZ",Spring
+T0794,2024-07-26,Bananas,Produce,7,10.85,41,Male,"Dallas, TX",Summer
+T0795,2024-06-26,Croissant,Bakery,4,12.11,29,Female,"New York, NY",Summer
+T0796,2024-05-15,Whole Milk,Dairy,8,1.04,54,Female,"Chicago, IL",Spring
+T0797,2024-02-23,Cheddar Cheese,Dairy,2,13.12,61,Male,"Los Angeles, CA",Winter
+T0798,2024-01-15,Yogurt,Dairy,1,8.75,68,Male,"Phoenix, AZ",Winter
+T0799,2024-10-03,Soda,Beverages,4,2.86,31,Male,"San Jose, CA",Fall
+T0800,2024-05-06,Frozen Peas,Frozen,2,14.23,43,Male,"San Jose, CA",Spring
+T0801,2024-04-12,Whole Wheat Bread,Bakery,4,18.58,36,Female,"Phoenix, AZ",Spring
+T0802,2024-04-02,Chicken Breast,Meat,6,15.49,40,Female,"Dallas, TX",Spring
+T0803,2024-06-27,Pumpkin Pie,Bakery,5,10.18,19,Male,"Dallas, TX",Summer
+T0804,2024-06-18,Chicken Breast,Meat,1,8.18,43,Male,"New York, NY",Summer
+T0805,2024-02-19,Cheddar Cheese,Dairy,6,10.62,30,Male,"Chicago, IL",Winter
+T0806,2024-09-22,Frozen Peas,Frozen,1,2.6,23,Male,"Houston, TX",Fall
+T0807,2024-09-15,Whole Milk,Dairy,9,15.45,48,Female,"San Diego, CA",Fall
+T0808,2024-03-09,Pork Chops,Meat,6,14.55,24,Male,"Philadelphia, PA",Spring
+T0809,2024-03-03,Apples,Produce,5,7.88,21,Male,"Chicago, IL",Spring
+T0810,2024-02-20,Carrots,Produce,10,2.36,50,Female,"Philadelphia, PA",Winter
+T0811,2024-05-13,Bananas,Produce,1,19.24,65,Male,"San Antonio, TX",Spring
+T0812,2024-02-19,Apples,Produce,8,0.92,59,Male,"Dallas, TX",Winter
+T0813,2024-01-18,Frozen Pizza,Frozen,7,5.77,21,Male,"San Diego, CA",Winter
+T0814,2024-04-04,Bananas,Produce,10,6.49,30,Female,"Philadelphia, PA",Spring
+T0815,2024-02-26,Whole Milk,Dairy,6,7.8,56,Male,"San Jose, CA",Winter
+T0816,2024-04-01,Apples,Produce,9,2.84,50,Male,"San Jose, CA",Spring
+T0817,2024-01-18,Chicken Breast,Meat,6,6.18,20,Female,"Los Angeles, CA",Winter
+T0818,2024-06-02,Carrots,Produce,4,10.19,25,Female,"Phoenix, AZ",Summer
+T0819,2024-02-07,Whole Wheat Bread,Bakery,1,17.09,38,Male,"Dallas, TX",Winter
+T0820,2024-03-27,Chicken Breast,Meat,4,12.73,19,Female,"Los Angeles, CA",Spring
+T0821,2024-06-03,Cheddar Cheese,Dairy,4,5.63,38,Female,"New York, NY",Summer
+T0822,2024-03-17,Whole Wheat Bread,Bakery,3,15.7,56,Female,"Houston, TX",Spring
+T0823,2024-11-02,Ice Cream,Frozen,10,11.34,57,Male,"San Diego, CA",Fall
+T0824,2024-04-19,Soda,Beverages,5,5.32,50,Male,"San Diego, CA",Spring
+T0825,2024-09-24,Pork Chops,Meat,7,8.42,52,Female,"Houston, TX",Fall
+T0826,2024-12-09,Coffee,Beverages,7,10.95,70,Female,"Philadelphia, PA",Winter
+T0827,2024-12-08,Orange Juice,Beverages,6,16.97,21,Female,"Chicago, IL",Winter
+T0828,2024-08-16,Pork Chops,Meat,5,1.73,51,Male,"Dallas, TX",Summer
+T0829,2024-05-11,Orange Juice,Beverages,8,10.24,28,Male,"San Diego, CA",Spring
+T0830,2024-11-20,Frozen Pizza,Frozen,7,9.06,46,Male,"Phoenix, AZ",Fall
+T0831,2024-05-08,Pork Chops,Meat,2,8.89,55,Male,"San Antonio, TX",Spring
+T0832,2024-01-14,Bananas,Produce,2,16.54,18,Female,"San Diego, CA",Winter
+T0833,2024-06-27,Frozen Peas,Frozen,10,6.58,28,Male,"Dallas, TX",Summer
+T0834,2024-09-10,Pumpkin Pie,Bakery,4,3.26,26,Male,"San Antonio, TX",Fall
+T0835,2024-10-25,Carrots,Produce,1,9.59,40,Male,"San Diego, CA",Fall
+T0836,2024-10-20,Frozen Pizza,Frozen,3,4.72,27,Female,"Los Angeles, CA",Fall
+T0837,2024-11-16,Apples,Produce,5,13.18,32,Female,"San Jose, CA",Fall
+T0838,2024-12-19,Coffee,Beverages,1,19.63,44,Male,"San Antonio, TX",Winter
+T0839,2024-11-16,Chicken Breast,Meat,4,16.09,25,Female,"Chicago, IL",Fall
+T0840,2024-12-05,Ice Cream,Frozen,6,18.45,33,Male,"Chicago, IL",Winter
+T0841,2024-09-15,Cheddar Cheese,Dairy,6,12.34,37,Male,"Chicago, IL",Fall
+T0842,2024-08-27,Coffee,Beverages,3,5.44,69,Female,"Houston, TX",Summer
+T0843,2024-04-27,Yogurt,Dairy,9,18.64,34,Male,"Houston, TX",Spring
+T0844,2024-01-25,Pumpkin Pie,Bakery,4,2.32,32,Female,"Dallas, TX",Winter
+T0845,2024-01-06,Ice Cream,Frozen,1,10.21,68,Male,"Los Angeles, CA",Winter
+T0846,2024-04-06,Bananas,Produce,9,6.03,67,Female,"Dallas, TX",Spring
+T0847,2024-11-20,Cheddar Cheese,Dairy,7,2.83,22,Female,"San Diego, CA",Fall
+T0848,2024-01-09,Whole Milk,Dairy,5,3.9,25,Female,"San Jose, CA",Winter
+T0849,2024-02-19,Croissant,Bakery,10,11.26,19,Male,"New York, NY",Winter
+T0850,2024-02-13,Cheddar Cheese,Dairy,4,0.63,24,Female,"Los Angeles, CA",Winter
+T0851,2024-03-17,Coffee,Beverages,9,6.08,22,Female,"Los Angeles, CA",Spring
+T0852,2024-12-18,Pumpkin Pie,Bakery,2,8.46,21,Female,"Los Angeles, CA",Winter
+T0853,2024-06-10,Soda,Beverages,8,3.48,30,Male,"San Antonio, TX",Summer
+T0854,2024-02-23,Ground Beef,Meat,3,6.01,58,Female,"New York, NY",Winter
+T0855,2024-11-14,Pumpkin Pie,Bakery,9,19.98,61,Male,"San Jose, CA",Fall
+T0856,2024-10-25,Frozen Peas,Frozen,3,13.42,47,Female,"Dallas, TX",Fall
+T0857,2024-02-25,Soda,Beverages,10,14.7,50,Male,"Los Angeles, CA",Winter
+T0858,2024-02-17,Orange Juice,Beverages,10,14.47,19,Male,"Philadelphia, PA",Winter
+T0859,2024-04-10,Frozen Peas,Frozen,3,14.89,62,Male,"Houston, TX",Spring
+T0860,2024-11-05,Carrots,Produce,3,2.72,66,Female,"Chicago, IL",Fall
+T0861,2024-10-28,Ice Cream,Frozen,4,4.26,52,Female,"Philadelphia, PA",Fall
+T0862,2024-08-28,Pork Chops,Meat,3,0.79,23,Male,"New York, NY",Summer
+T0863,2024-04-22,Ice Cream,Frozen,9,10.38,45,Female,"San Diego, CA",Spring
+T0864,2024-04-26,Apples,Produce,8,19.12,32,Female,"New York, NY",Spring
+T0865,2024-02-09,Pumpkin Pie,Bakery,2,3.79,66,Female,"San Antonio, TX",Winter
+T0866,2024-10-06,Coffee,Beverages,10,17.06,21,Female,"San Diego, CA",Fall
+T0867,2024-12-09,Yogurt,Dairy,9,11.23,58,Male,"New York, NY",Winter
+T0868,2024-04-26,Yogurt,Dairy,2,18.56,51,Male,"Dallas, TX",Spring
+T0869,2024-05-17,Frozen Peas,Frozen,4,14.75,64,Male,"San Jose, CA",Spring
+T0870,2024-12-06,Carrots,Produce,6,10.16,29,Male,"Dallas, TX",Winter
+T0871,2024-07-03,Ice Cream,Frozen,7,2.98,69,Female,"San Jose, CA",Summer
+T0872,2024-03-19,Frozen Peas,Frozen,10,19.54,59,Male,"Dallas, TX",Spring
+T0873,2024-10-12,Chicken Breast,Meat,4,17.26,23,Male,"San Antonio, TX",Fall
+T0874,2024-11-12,Pumpkin Pie,Bakery,7,6.1,37,Female,"Philadelphia, PA",Fall
+T0875,2024-05-21,Whole Milk,Dairy,8,10.83,42,Male,"Chicago, IL",Spring
+T0876,2024-01-27,Frozen Pizza,Frozen,9,15.47,66,Male,"Phoenix, AZ",Winter
+T0877,2024-07-08,Frozen Pizza,Frozen,1,3.63,48,Male,"Los Angeles, CA",Summer
+T0878,2024-10-15,Coffee,Beverages,4,18.19,22,Male,"Phoenix, AZ",Fall
+T0879,2024-08-28,Ground Beef,Meat,10,15.11,26,Female,"Houston, TX",Summer
+T0880,2024-10-08,Coffee,Beverages,6,3.28,44,Male,"Phoenix, AZ",Fall
+T0881,2024-03-16,Pork Chops,Meat,2,10.3,39,Female,"New York, NY",Spring
+T0882,2024-12-16,Pork Chops,Meat,10,16.79,50,Female,"San Diego, CA",Winter
+T0883,2024-06-25,Frozen Pizza,Frozen,7,8.62,65,Male,"San Jose, CA",Summer
+T0884,2024-12-07,Ice Cream,Frozen,5,11.52,51,Male,"New York, NY",Winter
+T0885,2024-02-05,Pork Chops,Meat,5,5.54,20,Male,"Dallas, TX",Winter
+T0886,2024-12-21,Apples,Produce,3,19.69,45,Male,"San Diego, CA",Winter
+T0887,2024-02-13,Yogurt,Dairy,7,2.24,23,Female,"Houston, TX",Winter
+T0888,2024-01-05,Pumpkin Pie,Bakery,10,16.98,49,Male,"Houston, TX",Winter
+T0889,2024-07-19,Ice Cream,Frozen,5,5.15,27,Female,"Chicago, IL",Summer
+T0890,2024-09-15,Ice Cream,Frozen,1,13.26,18,Male,"Houston, TX",Fall
+T0891,2024-05-05,Carrots,Produce,9,4.99,36,Male,"San Jose, CA",Spring
+T0892,2024-09-26,Whole Milk,Dairy,5,13.83,37,Female,"Los Angeles, CA",Fall
+T0893,2024-05-26,Cheddar Cheese,Dairy,4,18.39,47,Female,"San Diego, CA",Spring
+T0894,2024-11-05,Whole Wheat Bread,Bakery,4,10.01,68,Male,"New York, NY",Fall
+T0895,2024-03-23,Pumpkin Pie,Bakery,6,12.09,25,Female,"San Jose, CA",Spring
+T0896,2024-12-05,Soda,Beverages,8,17.14,57,Male,"New York, NY",Winter
+T0897,2024-02-10,Yogurt,Dairy,8,2.22,52,Female,"Los Angeles, CA",Winter
+T0898,2024-07-06,Pumpkin Pie,Bakery,6,2.73,57,Female,"Chicago, IL",Summer
+T0899,2024-07-21,Ground Beef,Meat,7,8.32,58,Male,"Chicago, IL",Summer
+T0900,2024-10-22,Frozen Pizza,Frozen,7,3.26,46,Female,"San Jose, CA",Fall
+T0901,2024-02-27,Whole Wheat Bread,Bakery,4,10.9,46,Male,"Los Angeles, CA",Winter
+T0902,2024-05-21,Whole Milk,Dairy,8,13.88,64,Female,"Philadelphia, PA",Spring
+T0903,2024-07-21,Carrots,Produce,2,9.02,34,Male,"San Diego, CA",Summer
+T0904,2024-02-20,Whole Milk,Dairy,7,6.36,68,Female,"Houston, TX",Winter
+T0905,2024-10-09,Coffee,Beverages,6,12.34,21,Male,"San Antonio, TX",Fall
+T0906,2024-03-22,Croissant,Bakery,6,1.87,58,Female,"Los Angeles, CA",Spring
+T0907,2024-04-23,Ice Cream,Frozen,5,0.52,39,Female,"San Antonio, TX",Spring
+T0908,2024-06-12,Cheddar Cheese,Dairy,7,19.3,42,Male,"New York, NY",Summer
+T0909,2024-11-28,Croissant,Bakery,6,4.48,60,Male,"Los Angeles, CA",Fall
+T0910,2024-07-09,Frozen Peas,Frozen,8,3.79,33,Male,"San Jose, CA",Summer
+T0911,2024-12-19,Ground Beef,Meat,9,5.33,40,Female,"San Antonio, TX",Winter
+T0912,2024-03-15,Soda,Beverages,6,2.04,61,Female,"San Antonio, TX",Spring
+T0913,2024-11-28,Coffee,Beverages,2,6.97,64,Male,"Chicago, IL",Fall
+T0914,2024-08-11,Pumpkin Pie,Bakery,10,3.09,50,Male,"Los Angeles, CA",Summer
+T0915,2024-09-15,Bananas,Produce,5,8.7,47,Female,"Houston, TX",Fall
+T0916,2024-11-11,Coffee,Beverages,4,10.9,34,Female,"Chicago, IL",Fall
+T0917,2024-02-14,Pork Chops,Meat,5,18.44,67,Male,"San Antonio, TX",Winter
+T0918,2024-09-25,Apples,Produce,7,9.78,39,Female,"San Jose, CA",Fall
+T0919,2024-01-03,Frozen Pizza,Frozen,7,11.22,37,Male,"San Antonio, TX",Winter
+T0920,2024-08-03,Bananas,Produce,9,3.46,53,Male,"San Jose, CA",Summer
+T0921,2024-09-22,Croissant,Bakery,10,6.0,69,Male,"Dallas, TX",Fall
+T0922,2024-02-22,Soda,Beverages,4,3.34,70,Female,"Philadelphia, PA",Winter
+T0923,2024-02-03,Soda,Beverages,8,4.81,44,Male,"San Jose, CA",Winter
+T0924,2024-10-10,Pumpkin Pie,Bakery,1,4.52,56,Male,"Houston, TX",Fall
+T0925,2024-01-26,Ground Beef,Meat,1,12.91,47,Male,"San Antonio, TX",Winter
+T0926,2024-02-13,Apples,Produce,5,3.85,59,Male,"Dallas, TX",Winter
+T0927,2024-04-26,Soda,Beverages,1,19.84,60,Female,"Phoenix, AZ",Spring
+T0928,2024-04-12,Pork Chops,Meat,5,19.74,36,Female,"Chicago, IL",Spring
+T0929,2024-11-15,Yogurt,Dairy,5,7.49,33,Male,"Phoenix, AZ",Fall
+T0930,2024-07-01,Pork Chops,Meat,7,13.32,54,Male,"Chicago, IL",Summer
+T0931,2024-11-05,Bananas,Produce,2,10.44,63,Female,"San Jose, CA",Fall
+T0932,2024-02-11,Apples,Produce,9,16.03,61,Female,"San Diego, CA",Winter
+T0933,2024-05-12,Carrots,Produce,7,15.17,51,Male,"Phoenix, AZ",Spring
+T0934,2024-03-09,Whole Wheat Bread,Bakery,8,6.85,55,Male,"Philadelphia, PA",Spring
+T0935,2024-05-09,Frozen Pizza,Frozen,1,19.59,43,Female,"Houston, TX",Spring
+T0936,2024-04-09,Cheddar Cheese,Dairy,9,8.53,58,Female,"San Jose, CA",Spring
+T0937,2024-07-24,Whole Wheat Bread,Bakery,6,18.82,49,Male,"Houston, TX",Summer
+T0938,2024-12-28,Chicken Breast,Meat,5,15.03,20,Female,"Phoenix, AZ",Winter
+T0939,2024-02-15,Whole Milk,Dairy,3,6.58,26,Female,"San Jose, CA",Winter
+T0940,2024-10-01,Soda,Beverages,7,16.44,42,Female,"Phoenix, AZ",Fall
+T0941,2024-07-25,Carrots,Produce,5,6.21,70,Female,"San Jose, CA",Summer
+T0942,2024-04-04,Chicken Breast,Meat,8,1.95,40,Male,"San Antonio, TX",Spring
+T0943,2024-08-27,Ground Beef,Meat,2,7.88,39,Female,"Los Angeles, CA",Summer
+T0944,2024-11-04,Apples,Produce,7,19.92,36,Female,"Dallas, TX",Fall
+T0945,2024-09-14,Carrots,Produce,3,15.77,54,Male,"San Diego, CA",Fall
+T0946,2024-07-09,Ice Cream,Frozen,4,4.97,56,Male,"San Antonio, TX",Summer
+T0947,2024-05-25,Cheddar Cheese,Dairy,6,2.74,25,Male,"Houston, TX",Spring
+T0948,2024-04-01,Bananas,Produce,7,13.83,29,Male,"San Antonio, TX",Spring
+T0949,2024-09-25,Orange Juice,Beverages,4,5.92,53,Female,"San Antonio, TX",Fall
+T0950,2024-04-13,Orange Juice,Beverages,1,5.48,67,Female,"Chicago, IL",Spring
+T0951,2024-10-01,Croissant,Bakery,3,16.53,54,Male,"Houston, TX",Fall
+T0952,2024-02-22,Carrots,Produce,10,17.08,22,Female,"San Antonio, TX",Winter
+T0953,2024-08-15,Cheddar Cheese,Dairy,8,15.35,34,Female,"Dallas, TX",Summer
+T0954,2024-11-10,Chicken Breast,Meat,5,4.68,23,Female,"San Diego, CA",Fall
+T0955,2024-10-12,Apples,Produce,9,19.03,67,Female,"Chicago, IL",Fall
+T0956,2024-07-25,Whole Wheat Bread,Bakery,2,19.67,23,Male,"San Jose, CA",Summer
+T0957,2024-10-14,Ice Cream,Frozen,9,1.64,18,Female,"Los Angeles, CA",Fall
+T0958,2024-01-22,Apples,Produce,1,2.16,34,Male,"Houston, TX",Winter
+T0959,2024-12-11,Frozen Peas,Frozen,2,18.59,44,Female,"San Diego, CA",Winter
+T0960,2024-05-15,Orange Juice,Beverages,4,14.65,32,Male,"Chicago, IL",Spring
+T0961,2024-05-05,Coffee,Beverages,7,6.93,42,Male,"Chicago, IL",Spring
+T0962,2024-06-17,Whole Milk,Dairy,8,9.35,53,Female,"Chicago, IL",Summer
+T0963,2024-09-16,Yogurt,Dairy,6,14.47,21,Male,"San Jose, CA",Fall
+T0964,2024-01-06,Pumpkin Pie,Bakery,10,18.3,48,Female,"San Diego, CA",Winter
+T0965,2024-01-27,Cheddar Cheese,Dairy,10,0.85,63,Female,"San Diego, CA",Winter
+T0966,2024-01-20,Pork Chops,Meat,2,12.15,18,Male,"Philadelphia, PA",Winter
+T0967,2024-01-15,Orange Juice,Beverages,3,16.09,60,Male,"San Jose, CA",Winter
+T0968,2024-02-17,Whole Wheat Bread,Bakery,8,0.56,57,Male,"Chicago, IL",Winter
+T0969,2024-01-12,Whole Wheat Bread,Bakery,4,19.79,40,Male,"San Diego, CA",Winter
+T0970,2024-07-05,Carrots,Produce,2,19.3,62,Female,"San Antonio, TX",Summer
+T0971,2024-12-11,Croissant,Bakery,1,4.5,46,Female,"Chicago, IL",Winter
+T0972,2024-11-13,Frozen Peas,Frozen,4,11.17,36,Female,"San Jose, CA",Fall
+T0973,2024-12-16,Frozen Peas,Frozen,6,0.53,60,Female,"San Diego, CA",Winter
+T0974,2024-11-09,Chicken Breast,Meat,9,13.0,41,Male,"Philadelphia, PA",Fall
+T0975,2024-11-02,Ground Beef,Meat,3,7.79,65,Male,"Dallas, TX",Fall
+T0976,2024-03-07,Yogurt,Dairy,6,11.42,70,Female,"Philadelphia, PA",Spring
+T0977,2024-03-12,Orange Juice,Beverages,1,10.4,52,Female,"Los Angeles, CA",Spring
+T0978,2024-11-09,Ice Cream,Frozen,4,4.09,59,Male,"Chicago, IL",Fall
+T0979,2024-04-09,Soda,Beverages,8,14.08,61,Female,"New York, NY",Spring
+T0980,2024-06-09,Ground Beef,Meat,6,6.14,23,Male,"Phoenix, AZ",Summer
+T0981,2024-09-19,Frozen Pizza,Frozen,1,14.05,23,Female,"Houston, TX",Fall
+T0982,2024-03-21,Frozen Peas,Frozen,5,2.96,44,Male,"Philadelphia, PA",Spring
+T0983,2024-06-27,Whole Milk,Dairy,4,9.89,25,Male,"Phoenix, AZ",Summer
+T0984,2024-04-03,Chicken Breast,Meat,8,2.52,29,Female,"Phoenix, AZ",Spring
+T0985,2024-10-09,Orange Juice,Beverages,5,15.58,62,Male,"Dallas, TX",Fall
+T0986,2024-09-22,Yogurt,Dairy,10,14.19,50,Male,"San Antonio, TX",Fall
+T0987,2024-08-16,Bananas,Produce,1,10.42,57,Female,"San Jose, CA",Summer
+T0988,2024-03-01,Frozen Pizza,Frozen,7,8.85,59,Male,"Houston, TX",Spring
+T0989,2024-08-12,Carrots,Produce,7,11.75,40,Female,"New York, NY",Summer
+T0990,2024-10-08,Bananas,Produce,7,15.43,56,Female,"Houston, TX",Fall
+T0991,2024-10-17,Pork Chops,Meat,8,5.89,37,Male,"Dallas, TX",Fall
+T0992,2024-02-14,Yogurt,Dairy,7,6.24,47,Male,"Phoenix, AZ",Winter
+T0993,2024-04-05,Whole Wheat Bread,Bakery,2,18.49,38,Female,"Phoenix, AZ",Spring
+T0994,2024-11-01,Whole Wheat Bread,Bakery,6,6.66,51,Female,"Phoenix, AZ",Fall
+T0995,2024-03-21,Soda,Beverages,8,3.82,22,Male,"San Antonio, TX",Spring
+T0996,2024-06-26,Ground Beef,Meat,4,17.14,66,Female,"Houston, TX",Summer
+T0997,2024-06-21,Pumpkin Pie,Bakery,1,14.42,36,Male,"Chicago, IL",Summer
+T0998,2024-07-15,Cheddar Cheese,Dairy,1,3.98,60,Female,"San Diego, CA",Summer
+T0999,2024-05-24,Bananas,Produce,2,1.56,68,Male,"Los Angeles, CA",Spring
+T1000,2024-11-20,Frozen Peas,Frozen,10,4.49,47,Female,"Los Angeles, CA",Fall
+T1001,2024-02-10,Ice Cream,Frozen,7,5.47,30,Male,"Philadelphia, PA",Winter
+T1002,2024-07-09,Soda,Beverages,10,19.85,42,Male,"Los Angeles, CA",Summer
+T1003,2024-10-16,Ground Beef,Meat,4,18.44,25,Female,"San Diego, CA",Fall
+T1004,2024-10-05,Pumpkin Pie,Bakery,3,1.51,55,Female,"San Antonio, TX",Fall
+T1005,2024-03-16,Ground Beef,Meat,7,7.96,68,Male,"Phoenix, AZ",Spring
+T1006,2024-01-27,Soda,Beverages,10,7.23,55,Male,"New York, NY",Winter
+T1007,2024-01-05,Carrots,Produce,4,10.31,24,Female,"Philadelphia, PA",Winter
+T1008,2024-07-17,Whole Milk,Dairy,8,17.38,23,Female,"Chicago, IL",Summer
+T1009,2024-06-02,Frozen Peas,Frozen,9,13.51,48,Male,"New York, NY",Summer
+T1010,2024-04-15,Coffee,Beverages,10,5.49,19,Female,"Los Angeles, CA",Spring
+T1011,2024-01-21,Orange Juice,Beverages,10,0.91,50,Male,"San Jose, CA",Winter
+T1012,2024-11-28,Ground Beef,Meat,4,11.71,69,Female,"Phoenix, AZ",Fall
+T1013,2024-06-04,Frozen Peas,Frozen,4,10.63,38,Male,"San Antonio, TX",Summer
+T1014,2024-05-24,Frozen Peas,Frozen,1,1.72,24,Male,"Chicago, IL",Spring
+T1015,2024-03-03,Coffee,Beverages,5,5.87,36,Female,"Phoenix, AZ",Spring
+T1016,2024-09-21,Pumpkin Pie,Bakery,1,6.93,56,Female,"Dallas, TX",Fall
+T1017,2024-11-22,Cheddar Cheese,Dairy,10,17.95,55,Female,"Phoenix, AZ",Fall
+T1018,2024-02-27,Bananas,Produce,6,16.85,63,Male,"Los Angeles, CA",Winter
+T1019,2024-11-04,Pork Chops,Meat,5,15.63,26,Female,"San Jose, CA",Fall
+T1020,2024-07-12,Frozen Pizza,Frozen,5,14.13,45,Female,"Phoenix, AZ",Summer
+T1021,2024-07-08,Ice Cream,Frozen,4,2.61,18,Male,"Chicago, IL",Summer
+T1022,2024-04-25,Yogurt,Dairy,9,14.15,69,Male,"San Antonio, TX",Spring
+T1023,2024-04-13,Apples,Produce,1,10.14,41,Female,"San Diego, CA",Spring
+T1024,2024-07-26,Ice Cream,Frozen,10,1.92,69,Male,"Phoenix, AZ",Summer
+T1025,2024-04-16,Orange Juice,Beverages,3,10.12,53,Male,"Chicago, IL",Spring
+T1026,2024-06-21,Frozen Peas,Frozen,2,13.52,53,Female,"Phoenix, AZ",Summer
+T1027,2024-10-15,Orange Juice,Beverages,3,10.71,24,Female,"Phoenix, AZ",Fall
+T1028,2024-04-14,Ice Cream,Frozen,10,5.25,43,Female,"Chicago, IL",Spring
+T1029,2024-04-28,Pumpkin Pie,Bakery,6,16.76,58,Male,"San Diego, CA",Spring
+T1030,2024-04-05,Frozen Peas,Frozen,10,16.44,59,Male,"Phoenix, AZ",Spring
+T1031,2024-06-23,Bananas,Produce,7,16.4,37,Male,"Chicago, IL",Summer
+T1032,2024-08-01,Orange Juice,Beverages,7,17.57,48,Female,"San Antonio, TX",Summer
+T1033,2024-06-16,Coffee,Beverages,5,18.17,27,Female,"Los Angeles, CA",Summer
+T1034,2024-12-19,Frozen Peas,Frozen,5,16.36,67,Female,"New York, NY",Winter
+T1035,2024-01-13,Coffee,Beverages,7,18.26,62,Female,"San Diego, CA",Winter
+T1036,2024-03-03,Pork Chops,Meat,2,4.54,46,Male,"Chicago, IL",Spring
+T1037,2024-01-03,Chicken Breast,Meat,6,8.56,32,Female,"San Jose, CA",Winter
+T1038,2024-02-21,Bananas,Produce,8,19.07,53,Female,"Houston, TX",Winter
+T1039,2024-06-28,Coffee,Beverages,8,13.18,51,Male,"New York, NY",Summer
+T1040,2024-10-22,Pork Chops,Meat,10,2.02,30,Male,"New York, NY",Fall
+T1041,2024-12-02,Soda,Beverages,1,8.23,25,Male,"Philadelphia, PA",Winter
+T1042,2024-01-05,Pumpkin Pie,Bakery,6,7.21,56,Female,"Houston, TX",Winter
+T1043,2024-06-01,Yogurt,Dairy,4,18.03,60,Female,"San Antonio, TX",Summer
+T1044,2024-09-08,Croissant,Bakery,2,2.67,49,Female,"Phoenix, AZ",Fall
+T1045,2024-10-19,Orange Juice,Beverages,1,8.94,37,Female,"New York, NY",Fall
+T1046,2024-04-18,Carrots,Produce,4,13.82,64,Male,"Dallas, TX",Spring
+T1047,2024-09-02,Pumpkin Pie,Bakery,9,7.62,38,Male,"Chicago, IL",Fall
+T1048,2024-04-20,Bananas,Produce,3,10.17,40,Female,"New York, NY",Spring
+T1049,2024-07-27,Pork Chops,Meat,2,15.54,46,Male,"New York, NY",Summer
+T1050,2024-07-23,Frozen Pizza,Frozen,3,0.87,46,Female,"San Diego, CA",Summer
+T1051,2024-06-07,Bananas,Produce,4,3.38,54,Female,"Los Angeles, CA",Summer
+T1052,2024-07-08,Chicken Breast,Meat,5,6.07,44,Male,"Los Angeles, CA",Summer
+T1053,2024-02-04,Bananas,Produce,10,6.65,62,Female,"San Antonio, TX",Winter
+T1054,2024-08-25,Pork Chops,Meat,6,1.19,46,Female,"San Jose, CA",Summer
+T1055,2024-04-06,Whole Milk,Dairy,1,9.89,39,Male,"San Antonio, TX",Spring
+T1056,2024-03-15,Whole Milk,Dairy,4,9.37,35,Female,"Philadelphia, PA",Spring
+T1057,2024-01-13,Carrots,Produce,1,11.93,59,Male,"Phoenix, AZ",Winter
+T1058,2024-12-06,Croissant,Bakery,1,10.13,36,Male,"San Diego, CA",Winter
+T1059,2024-11-26,Pork Chops,Meat,2,4.83,59,Male,"Philadelphia, PA",Fall
+T1060,2024-05-25,Yogurt,Dairy,10,6.66,47,Male,"Phoenix, AZ",Spring
+T1061,2024-04-26,Croissant,Bakery,4,15.82,29,Male,"New York, NY",Spring
+T1062,2024-09-12,Whole Wheat Bread,Bakery,7,17.06,31,Male,"Dallas, TX",Fall
+T1063,2024-02-15,Whole Wheat Bread,Bakery,5,6.66,25,Male,"Chicago, IL",Winter
+T1064,2024-07-08,Apples,Produce,10,1.56,57,Female,"Phoenix, AZ",Summer
+T1065,2024-05-15,Yogurt,Dairy,6,16.3,29,Female,"San Jose, CA",Spring
+T1066,2024-02-08,Bananas,Produce,10,13.4,48,Male,"San Antonio, TX",Winter
+T1067,2024-03-14,Bananas,Produce,6,14.19,56,Female,"Dallas, TX",Spring
+T1068,2024-10-15,Cheddar Cheese,Dairy,7,16.61,65,Female,"Houston, TX",Fall
+T1069,2024-09-17,Pumpkin Pie,Bakery,7,2.87,33,Male,"New York, NY",Fall
+T1070,2024-11-19,Yogurt,Dairy,1,15.73,58,Female,"San Diego, CA",Fall
+T1071,2024-02-09,Whole Milk,Dairy,4,1.82,53,Female,"Phoenix, AZ",Winter
+T1072,2024-11-16,Bananas,Produce,10,18.86,55,Male,"New York, NY",Fall
+T1073,2024-02-27,Cheddar Cheese,Dairy,5,9.26,31,Female,"San Antonio, TX",Winter
+T1074,2024-04-14,Pork Chops,Meat,2,4.39,58,Female,"Houston, TX",Spring
+T1075,2024-03-15,Croissant,Bakery,9,9.81,34,Male,"San Jose, CA",Spring
+T1076,2024-01-24,Frozen Peas,Frozen,9,15.62,20,Female,"San Jose, CA",Winter
+T1077,2024-05-19,Coffee,Beverages,5,17.88,51,Male,"Houston, TX",Spring
+T1078,2024-03-20,Bananas,Produce,8,15.19,32,Female,"San Diego, CA",Spring
+T1079,2024-11-28,Frozen Pizza,Frozen,2,5.37,48,Male,"San Jose, CA",Fall
+T1080,2024-09-22,Pumpkin Pie,Bakery,3,7.64,41,Male,"Chicago, IL",Fall
+T1081,2024-08-21,Frozen Peas,Frozen,2,15.61,45,Female,"San Jose, CA",Summer
+T1082,2024-11-13,Apples,Produce,7,6.41,51,Female,"Chicago, IL",Fall
+T1083,2024-07-01,Pork Chops,Meat,2,12.57,54,Male,"San Diego, CA",Summer
+T1084,2024-04-19,Whole Wheat Bread,Bakery,6,14.76,62,Male,"Dallas, TX",Spring
+T1085,2024-03-18,Croissant,Bakery,5,6.96,22,Male,"Philadelphia, PA",Spring
+T1086,2024-11-12,Croissant,Bakery,5,3.07,36,Female,"New York, NY",Fall
+T1087,2024-05-06,Pork Chops,Meat,1,18.23,52,Male,"San Diego, CA",Spring
+T1088,2024-02-01,Whole Wheat Bread,Bakery,3,11.06,48,Female,"Philadelphia, PA",Winter
+T1089,2024-10-16,Whole Milk,Dairy,5,4.48,65,Male,"Dallas, TX",Fall
+T1090,2024-10-28,Frozen Pizza,Frozen,1,10.98,56,Female,"Phoenix, AZ",Fall
+T1091,2024-07-21,Frozen Pizza,Frozen,6,16.0,34,Female,"Dallas, TX",Summer
+T1092,2024-04-08,Carrots,Produce,7,2.35,25,Male,"Philadelphia, PA",Spring
+T1093,2024-12-20,Chicken Breast,Meat,1,15.98,65,Female,"Los Angeles, CA",Winter
+T1094,2024-06-28,Frozen Pizza,Frozen,6,15.27,57,Female,"Dallas, TX",Summer
+T1095,2024-02-19,Chicken Breast,Meat,4,12.0,68,Female,"Dallas, TX",Winter
+T1096,2024-02-05,Pumpkin Pie,Bakery,5,4.45,21,Female,"San Diego, CA",Winter
+T1097,2024-05-18,Ground Beef,Meat,1,13.35,55,Female,"San Diego, CA",Spring
+T1098,2024-12-22,Carrots,Produce,8,13.92,27,Female,"San Antonio, TX",Winter
+T1099,2024-02-20,Carrots,Produce,6,12.33,19,Female,"Philadelphia, PA",Winter
+T1100,2024-06-25,Pork Chops,Meat,7,13.79,67,Female,"San Jose, CA",Summer
+T1101,2024-08-26,Bananas,Produce,8,11.39,18,Female,"Phoenix, AZ",Summer
+T1102,2024-08-21,Cheddar Cheese,Dairy,4,16.1,48,Female,"New York, NY",Summer
+T1103,2024-03-06,Frozen Peas,Frozen,10,5.6,20,Female,"San Diego, CA",Spring
+T1104,2024-08-20,Pumpkin Pie,Bakery,7,10.34,43,Male,"San Jose, CA",Summer
+T1105,2024-04-24,Croissant,Bakery,8,11.29,61,Male,"New York, NY",Spring
+T1106,2024-07-08,Ground Beef,Meat,1,2.54,23,Male,"San Antonio, TX",Summer
+T1107,2024-12-26,Chicken Breast,Meat,2,5.33,32,Female,"Los Angeles, CA",Winter
+T1108,2024-10-25,Pork Chops,Meat,10,16.3,20,Male,"Dallas, TX",Fall
+T1109,2024-10-21,Carrots,Produce,8,17.85,54,Female,"Dallas, TX",Fall
+T1110,2024-10-12,Apples,Produce,9,9.94,46,Female,"San Diego, CA",Fall
+T1111,2024-02-15,Yogurt,Dairy,2,15.48,67,Female,"Chicago, IL",Winter
+T1112,2024-07-28,Coffee,Beverages,3,18.59,64,Male,"New York, NY",Summer
+T1113,2024-09-05,Coffee,Beverages,3,9.36,26,Male,"New York, NY",Fall
+T1114,2024-05-02,Chicken Breast,Meat,7,2.21,66,Female,"Houston, TX",Spring
+T1115,2024-09-22,Frozen Peas,Frozen,10,2.13,19,Female,"Phoenix, AZ",Fall
+T1116,2024-09-21,Bananas,Produce,3,1.45,48,Male,"Chicago, IL",Fall
+T1117,2024-09-24,Croissant,Bakery,9,19.95,25,Male,"San Antonio, TX",Fall
+T1118,2024-05-15,Soda,Beverages,8,1.06,49,Female,"Phoenix, AZ",Spring
+T1119,2024-02-08,Ground Beef,Meat,2,14.16,33,Female,"Houston, TX",Winter
+T1120,2024-06-21,Coffee,Beverages,7,18.49,41,Male,"Philadelphia, PA",Summer
+T1121,2024-05-27,Frozen Peas,Frozen,9,2.28,48,Female,"Chicago, IL",Spring
+T1122,2024-08-27,Orange Juice,Beverages,1,10.29,25,Female,"Houston, TX",Summer
+T1123,2024-10-05,Soda,Beverages,10,1.77,29,Female,"New York, NY",Fall
+T1124,2024-04-24,Frozen Peas,Frozen,4,16.33,43,Male,"San Antonio, TX",Spring
+T1125,2024-10-10,Pumpkin Pie,Bakery,6,12.2,47,Female,"San Diego, CA",Fall
+T1126,2024-06-21,Yogurt,Dairy,8,7.01,59,Male,"San Diego, CA",Summer
+T1127,2024-07-07,Yogurt,Dairy,4,15.53,59,Female,"San Jose, CA",Summer
+T1128,2024-05-03,Croissant,Bakery,6,3.78,19,Female,"Dallas, TX",Spring
+T1129,2024-09-02,Soda,Beverages,9,3.79,58,Female,"Dallas, TX",Fall
+T1130,2024-02-06,Yogurt,Dairy,6,5.05,66,Female,"Los Angeles, CA",Winter
+T1131,2024-03-13,Soda,Beverages,8,14.16,62,Male,"Chicago, IL",Spring
+T1132,2024-04-16,Whole Milk,Dairy,6,15.8,39,Female,"San Diego, CA",Spring
+T1133,2024-09-17,Orange Juice,Beverages,9,1.45,20,Female,"Phoenix, AZ",Fall
+T1134,2024-05-15,Orange Juice,Beverages,2,1.67,51,Male,"New York, NY",Spring
+T1135,2024-04-12,Pumpkin Pie,Bakery,8,10.3,46,Female,"Dallas, TX",Spring
+T1136,2024-02-12,Carrots,Produce,2,2.52,31,Female,"San Jose, CA",Winter
+T1137,2024-11-12,Carrots,Produce,1,17.9,26,Male,"Los Angeles, CA",Fall
+T1138,2024-11-02,Pork Chops,Meat,2,1.27,64,Female,"Los Angeles, CA",Fall
+T1139,2024-02-27,Apples,Produce,3,18.22,34,Female,"Philadelphia, PA",Winter
+T1140,2024-02-28,Yogurt,Dairy,10,15.07,48,Male,"Phoenix, AZ",Winter
+T1141,2024-01-06,Croissant,Bakery,5,1.78,43,Female,"San Antonio, TX",Winter
+T1142,2024-06-14,Whole Wheat Bread,Bakery,7,15.71,36,Male,"Los Angeles, CA",Summer
+T1143,2024-11-13,Yogurt,Dairy,7,11.19,70,Female,"Houston, TX",Fall
+T1144,2024-12-24,Orange Juice,Beverages,1,17.39,34,Female,"San Antonio, TX",Winter
+T1145,2024-12-13,Yogurt,Dairy,9,7.7,19,Female,"Philadelphia, PA",Winter
+T1146,2024-03-10,Coffee,Beverages,7,19.27,59,Female,"San Diego, CA",Spring
+T1147,2024-05-25,Apples,Produce,1,15.94,28,Female,"Chicago, IL",Spring
+T1148,2024-05-24,Orange Juice,Beverages,10,4.54,19,Male,"Houston, TX",Spring
+T1149,2024-12-27,Ground Beef,Meat,6,2.65,48,Male,"San Antonio, TX",Winter
+T1150,2024-06-01,Carrots,Produce,1,4.71,28,Female,"Philadelphia, PA",Summer
+T1151,2024-09-09,Bananas,Produce,2,4.58,35,Male,"San Antonio, TX",Fall
+T1152,2024-11-08,Ground Beef,Meat,6,9.82,49,Female,"San Antonio, TX",Fall
+T1153,2024-11-21,Ground Beef,Meat,5,16.95,57,Female,"San Jose, CA",Fall
+T1154,2024-08-21,Apples,Produce,3,12.22,66,Female,"Philadelphia, PA",Summer
+T1155,2024-11-04,Coffee,Beverages,5,14.47,37,Male,"Dallas, TX",Fall
+T1156,2024-09-10,Pumpkin Pie,Bakery,7,16.38,56,Female,"San Jose, CA",Fall
+T1157,2024-06-24,Frozen Pizza,Frozen,5,11.82,30,Female,"Philadelphia, PA",Summer
+T1158,2024-08-07,Whole Wheat Bread,Bakery,2,10.51,54,Female,"Phoenix, AZ",Summer
+T1159,2024-01-27,Orange Juice,Beverages,5,9.89,32,Female,"San Antonio, TX",Winter
+T1160,2024-04-09,Frozen Pizza,Frozen,1,16.39,42,Male,"Chicago, IL",Spring
+T1161,2024-11-06,Soda,Beverages,8,13.01,24,Female,"San Diego, CA",Fall
+T1162,2024-05-18,Whole Milk,Dairy,4,7.92,40,Female,"New York, NY",Spring
+T1163,2024-04-08,Ground Beef,Meat,4,12.22,50,Male,"San Jose, CA",Spring
+T1164,2024-11-10,Ice Cream,Frozen,8,3.35,19,Male,"Phoenix, AZ",Fall
+T1165,2024-08-18,Apples,Produce,1,14.75,18,Male,"San Antonio, TX",Summer
+T1166,2024-05-19,Frozen Pizza,Frozen,4,16.84,56,Male,"San Jose, CA",Spring
+T1167,2024-05-05,Cheddar Cheese,Dairy,5,10.67,27,Female,"Los Angeles, CA",Spring
+T1168,2024-05-07,Ice Cream,Frozen,3,8.63,50,Male,"Dallas, TX",Spring
+T1169,2024-02-02,Bananas,Produce,7,4.05,60,Female,"New York, NY",Winter
+T1170,2024-01-05,Soda,Beverages,10,17.62,18,Female,"Phoenix, AZ",Winter
+T1171,2024-01-26,Cheddar Cheese,Dairy,3,11.64,69,Male,"Houston, TX",Winter
+T1172,2024-12-12,Yogurt,Dairy,2,17.04,43,Female,"Los Angeles, CA",Winter
+T1173,2024-03-11,Frozen Peas,Frozen,1,2.35,64,Male,"Chicago, IL",Spring
+T1174,2024-11-15,Soda,Beverages,2,9.76,63,Male,"Phoenix, AZ",Fall
+T1175,2024-07-19,Pork Chops,Meat,8,18.94,39,Female,"San Antonio, TX",Summer
+T1176,2024-02-24,Ice Cream,Frozen,8,4.02,46,Male,"San Diego, CA",Winter
+T1177,2024-07-21,Coffee,Beverages,10,4.87,40,Male,"San Antonio, TX",Summer
+T1178,2024-12-09,Ice Cream,Frozen,8,2.22,63,Male,"New York, NY",Winter
+T1179,2024-02-01,Whole Wheat Bread,Bakery,2,4.27,44,Female,"Philadelphia, PA",Winter
+T1180,2024-04-02,Carrots,Produce,7,5.32,57,Male,"Philadelphia, PA",Spring
+T1181,2024-08-09,Frozen Pizza,Frozen,8,14.24,42,Female,"San Antonio, TX",Summer
+T1182,2024-04-09,Chicken Breast,Meat,7,6.41,61,Male,"Dallas, TX",Spring
+T1183,2024-03-09,Apples,Produce,8,4.82,68,Male,"Houston, TX",Spring
+T1184,2024-10-19,Whole Wheat Bread,Bakery,7,1.92,66,Female,"New York, NY",Fall
+T1185,2024-06-12,Orange Juice,Beverages,5,3.15,40,Male,"Dallas, TX",Summer
+T1186,2024-12-09,Orange Juice,Beverages,4,7.27,28,Female,"Houston, TX",Winter
+T1187,2024-11-09,Ground Beef,Meat,9,17.45,70,Male,"San Diego, CA",Fall
+T1188,2024-06-26,Pork Chops,Meat,1,19.68,26,Female,"Chicago, IL",Summer
+T1189,2024-10-09,Pork Chops,Meat,1,1.38,20,Female,"San Diego, CA",Fall
+T1190,2024-09-24,Pork Chops,Meat,2,13.99,26,Female,"Houston, TX",Fall
+T1191,2024-05-16,Ice Cream,Frozen,2,10.56,22,Male,"Los Angeles, CA",Spring
+T1192,2024-01-27,Pork Chops,Meat,7,13.48,20,Male,"New York, NY",Winter
+T1193,2024-12-24,Bananas,Produce,8,7.26,41,Male,"San Diego, CA",Winter
+T1194,2024-10-24,Croissant,Bakery,2,3.9,19,Male,"Philadelphia, PA",Fall
+T1195,2024-03-12,Orange Juice,Beverages,2,3.59,49,Male,"Phoenix, AZ",Spring
+T1196,2024-08-09,Whole Wheat Bread,Bakery,3,6.68,43,Male,"New York, NY",Summer
+T1197,2024-11-07,Yogurt,Dairy,3,7.27,43,Male,"Chicago, IL",Fall
+T1198,2024-05-07,Apples,Produce,3,1.05,33,Male,"New York, NY",Spring
+T1199,2024-04-04,Apples,Produce,5,7.28,38,Male,"San Jose, CA",Spring
+T1200,2024-12-28,Ground Beef,Meat,9,14.05,25,Male,"San Diego, CA",Winter
+T1201,2024-11-10,Whole Wheat Bread,Bakery,10,1.21,45,Female,"Dallas, TX",Fall
+T1202,2024-11-19,Pumpkin Pie,Bakery,5,3.19,47,Male,"Chicago, IL",Fall
+T1203,2024-03-28,Pumpkin Pie,Bakery,10,13.41,70,Male,"New York, NY",Spring
+T1204,2024-12-06,Apples,Produce,4,4.85,58,Male,"Dallas, TX",Winter
+T1205,2024-12-10,Soda,Beverages,1,18.34,65,Male,"Chicago, IL",Winter
+T1206,2024-03-13,Chicken Breast,Meat,10,8.6,60,Male,"San Jose, CA",Spring
+T1207,2024-04-08,Apples,Produce,9,18.49,41,Female,"San Diego, CA",Spring
+T1208,2024-10-03,Yogurt,Dairy,5,3.1,61,Female,"Phoenix, AZ",Fall
+T1209,2024-11-04,Carrots,Produce,10,8.18,29,Male,"Chicago, IL",Fall
+T1210,2024-11-01,Orange Juice,Beverages,6,9.67,64,Female,"Phoenix, AZ",Fall
+T1211,2024-03-25,Carrots,Produce,1,14.34,52,Female,"Houston, TX",Spring
+T1212,2024-12-15,Yogurt,Dairy,1,16.46,46,Male,"Dallas, TX",Winter
+T1213,2024-04-18,Chicken Breast,Meat,6,17.51,28,Female,"San Diego, CA",Spring
+T1214,2024-09-07,Pumpkin Pie,Bakery,2,9.56,46,Male,"San Antonio, TX",Fall
+T1215,2024-06-13,Frozen Pizza,Frozen,3,8.11,42,Female,"San Jose, CA",Summer
+T1216,2024-01-18,Yogurt,Dairy,5,18.02,56,Male,"San Antonio, TX",Winter
+T1217,2024-07-18,Coffee,Beverages,3,19.6,43,Male,"Los Angeles, CA",Summer
+T1218,2024-02-15,Whole Milk,Dairy,4,19.12,59,Female,"Houston, TX",Winter
+T1219,2024-10-03,Croissant,Bakery,9,19.33,50,Female,"Philadelphia, PA",Fall
+T1220,2024-03-24,Ice Cream,Frozen,10,8.43,57,Female,"Chicago, IL",Spring
+T1221,2024-05-06,Whole Milk,Dairy,4,13.13,47,Female,"New York, NY",Spring
+T1222,2024-01-15,Pumpkin Pie,Bakery,4,17.2,68,Male,"San Antonio, TX",Winter
+T1223,2024-09-13,Croissant,Bakery,9,19.37,30,Female,"Houston, TX",Fall
+T1224,2024-10-25,Bananas,Produce,3,7.54,50,Female,"San Antonio, TX",Fall
+T1225,2024-04-03,Ice Cream,Frozen,7,16.51,20,Female,"Los Angeles, CA",Spring
+T1226,2024-04-09,Soda,Beverages,4,13.85,30,Female,"Phoenix, AZ",Spring
+T1227,2024-05-06,Pumpkin Pie,Bakery,10,3.52,53,Male,"Phoenix, AZ",Spring
+T1228,2024-06-12,Whole Milk,Dairy,7,8.84,62,Female,"Phoenix, AZ",Summer
+T1229,2024-09-04,Soda,Beverages,8,1.15,19,Female,"Houston, TX",Fall
+T1230,2024-09-10,Coffee,Beverages,8,18.82,31,Female,"Phoenix, AZ",Fall
+T1231,2024-02-06,Frozen Peas,Frozen,7,4.88,33,Female,"San Diego, CA",Winter
+T1232,2024-01-18,Ice Cream,Frozen,6,7.11,31,Female,"New York, NY",Winter
+T1233,2024-02-15,Cheddar Cheese,Dairy,5,13.71,32,Male,"Phoenix, AZ",Winter
+T1234,2024-09-04,Chicken Breast,Meat,1,5.22,23,Male,"Houston, TX",Fall
+T1235,2024-01-13,Coffee,Beverages,2,4.21,47,Male,"Philadelphia, PA",Winter
+T1236,2024-02-03,Ground Beef,Meat,5,5.24,70,Female,"Chicago, IL",Winter
+T1237,2024-12-08,Coffee,Beverages,9,9.69,38,Male,"New York, NY",Winter
+T1238,2024-07-04,Pork Chops,Meat,5,5.34,60,Female,"San Antonio, TX",Summer
+T1239,2024-01-23,Carrots,Produce,5,4.25,55,Female,"Los Angeles, CA",Winter
+T1240,2024-04-26,Croissant,Bakery,3,9.62,26,Female,"San Antonio, TX",Spring
+T1241,2024-11-15,Chicken Breast,Meat,3,5.58,64,Female,"Dallas, TX",Fall
+T1242,2024-09-17,Frozen Pizza,Frozen,2,10.2,69,Female,"Houston, TX",Fall
+T1243,2024-04-27,Frozen Peas,Frozen,6,9.06,62,Male,"San Antonio, TX",Spring
+T1244,2024-10-24,Pumpkin Pie,Bakery,3,13.41,69,Female,"Chicago, IL",Fall
+T1245,2024-01-21,Apples,Produce,5,18.44,36,Female,"Houston, TX",Winter
+T1246,2024-01-10,Ice Cream,Frozen,7,11.24,27,Female,"Los Angeles, CA",Winter
+T1247,2024-05-16,Croissant,Bakery,3,11.34,53,Male,"New York, NY",Spring
+T1248,2024-07-07,Ice Cream,Frozen,5,13.48,31,Male,"Dallas, TX",Summer
+T1249,2024-08-08,Soda,Beverages,2,14.87,65,Female,"San Antonio, TX",Summer
+T1250,2024-07-07,Frozen Pizza,Frozen,7,5.06,27,Female,"San Antonio, TX",Summer
+T1251,2024-04-03,Ice Cream,Frozen,1,17.93,63,Female,"San Jose, CA",Spring
+T1252,2024-08-10,Whole Wheat Bread,Bakery,3,14.2,62,Male,"San Antonio, TX",Summer
+T1253,2024-05-02,Ground Beef,Meat,8,6.73,45,Female,"Phoenix, AZ",Spring
+T1254,2024-10-17,Apples,Produce,6,14.11,26,Female,"Philadelphia, PA",Fall
+T1255,2024-03-18,Orange Juice,Beverages,1,8.11,24,Female,"San Jose, CA",Spring
+T1256,2024-09-10,Orange Juice,Beverages,6,5.51,66,Female,"Phoenix, AZ",Fall
+T1257,2024-11-17,Chicken Breast,Meat,6,10.7,63,Male,"New York, NY",Fall
+T1258,2024-01-25,Yogurt,Dairy,8,14.98,66,Female,"Phoenix, AZ",Winter
+T1259,2024-02-15,Ice Cream,Frozen,7,12.92,39,Female,"San Antonio, TX",Winter
+T1260,2024-08-09,Whole Milk,Dairy,8,6.48,51,Male,"Chicago, IL",Summer
+T1261,2024-09-07,Carrots,Produce,3,4.61,66,Female,"San Diego, CA",Fall
+T1262,2024-12-13,Cheddar Cheese,Dairy,5,8.06,30,Male,"San Jose, CA",Winter
+T1263,2024-01-11,Whole Wheat Bread,Bakery,8,17.14,52,Male,"San Diego, CA",Winter
+T1264,2024-11-26,Soda,Beverages,6,6.18,37,Female,"San Jose, CA",Fall
+T1265,2024-03-16,Ground Beef,Meat,1,14.34,57,Female,"Phoenix, AZ",Spring
+T1266,2024-03-02,Carrots,Produce,6,16.55,57,Female,"Chicago, IL",Spring
+T1267,2024-10-12,Carrots,Produce,10,9.42,29,Male,"San Antonio, TX",Fall
+T1268,2024-02-11,Ground Beef,Meat,7,7.22,64,Female,"Houston, TX",Winter
+T1269,2024-01-24,Frozen Peas,Frozen,6,12.83,38,Male,"San Jose, CA",Winter
+T1270,2024-08-21,Whole Milk,Dairy,2,8.54,30,Male,"Los Angeles, CA",Summer
+T1271,2024-11-20,Carrots,Produce,7,0.96,51,Male,"Chicago, IL",Fall
+T1272,2024-09-04,Whole Wheat Bread,Bakery,8,15.45,32,Female,"Phoenix, AZ",Fall
+T1273,2024-12-11,Frozen Pizza,Frozen,6,8.21,36,Male,"San Antonio, TX",Winter
+T1274,2024-05-18,Apples,Produce,4,18.54,29,Female,"Dallas, TX",Spring
+T1275,2024-11-05,Pork Chops,Meat,6,6.56,38,Female,"Los Angeles, CA",Fall
+T1276,2024-05-12,Whole Wheat Bread,Bakery,9,19.62,49,Male,"Dallas, TX",Spring
+T1277,2024-05-09,Pumpkin Pie,Bakery,3,8.24,45,Male,"Chicago, IL",Spring
+T1278,2024-12-07,Coffee,Beverages,4,5.04,28,Female,"San Jose, CA",Winter
+T1279,2024-04-04,Yogurt,Dairy,6,18.55,50,Female,"Phoenix, AZ",Spring
+T1280,2024-07-07,Chicken Breast,Meat,4,14.46,56,Male,"San Antonio, TX",Summer
+T1281,2024-11-19,Whole Milk,Dairy,3,10.98,19,Female,"Dallas, TX",Fall
+T1282,2024-06-17,Frozen Peas,Frozen,7,8.9,37,Male,"Los Angeles, CA",Summer
+T1283,2024-01-22,Chicken Breast,Meat,10,8.62,67,Female,"San Antonio, TX",Winter
+T1284,2024-09-14,Soda,Beverages,1,13.67,35,Male,"New York, NY",Fall
+T1285,2024-06-10,Frozen Pizza,Frozen,10,5.48,45,Female,"Philadelphia, PA",Summer
+T1286,2024-02-08,Yogurt,Dairy,9,15.63,38,Male,"Houston, TX",Winter
+T1287,2024-01-04,Frozen Pizza,Frozen,3,19.0,65,Female,"San Antonio, TX",Winter
+T1288,2024-08-20,Cheddar Cheese,Dairy,10,12.35,68,Female,"New York, NY",Summer
+T1289,2024-07-03,Carrots,Produce,10,16.3,37,Male,"Houston, TX",Summer
+T1290,2024-04-08,Pork Chops,Meat,5,19.83,39,Male,"Houston, TX",Spring
+T1291,2024-01-02,Frozen Peas,Frozen,5,11.99,36,Female,"Houston, TX",Winter
+T1292,2024-01-19,Soda,Beverages,3,6.47,67,Female,"Houston, TX",Winter
+T1293,2024-12-16,Pumpkin Pie,Bakery,10,15.27,38,Female,"San Jose, CA",Winter
+T1294,2024-07-16,Whole Wheat Bread,Bakery,2,12.26,69,Female,"Los Angeles, CA",Summer
+T1295,2024-08-02,Yogurt,Dairy,10,2.0,38,Female,"San Antonio, TX",Summer
+T1296,2024-12-16,Whole Wheat Bread,Bakery,10,15.79,30,Male,"San Diego, CA",Winter
+T1297,2024-01-22,Orange Juice,Beverages,7,12.74,18,Female,"Los Angeles, CA",Winter
+T1298,2024-08-25,Coffee,Beverages,6,0.97,48,Male,"New York, NY",Summer
+T1299,2024-08-27,Croissant,Bakery,2,14.26,47,Female,"Phoenix, AZ",Summer
+T1300,2024-06-06,Frozen Pizza,Frozen,6,14.01,58,Female,"Philadelphia, PA",Summer
+T1301,2024-07-04,Apples,Produce,1,14.73,53,Female,"Chicago, IL",Summer
+T1302,2024-01-07,Soda,Beverages,10,10.03,33,Female,"Los Angeles, CA",Winter
+T1303,2024-12-20,Ice Cream,Frozen,7,8.55,35,Female,"Los Angeles, CA",Winter
+T1304,2024-09-09,Ground Beef,Meat,6,18.28,35,Female,"New York, NY",Fall
+T1305,2024-10-22,Whole Milk,Dairy,10,13.45,28,Female,"San Antonio, TX",Fall
+T1306,2024-10-28,Carrots,Produce,10,8.79,45,Male,"Los Angeles, CA",Fall
+T1307,2024-09-24,Whole Milk,Dairy,7,15.81,30,Female,"Dallas, TX",Fall
+T1308,2024-10-10,Carrots,Produce,8,11.35,45,Male,"Houston, TX",Fall
+T1309,2024-08-25,Apples,Produce,6,7.93,23,Female,"Phoenix, AZ",Summer
+T1310,2024-12-12,Frozen Peas,Frozen,9,1.88,61,Male,"Philadelphia, PA",Winter
+T1311,2024-09-09,Orange Juice,Beverages,3,14.14,53,Female,"New York, NY",Fall
+T1312,2024-06-02,Orange Juice,Beverages,9,9.73,47,Female,"San Diego, CA",Summer
+T1313,2024-07-15,Pork Chops,Meat,2,1.87,64,Male,"Los Angeles, CA",Summer
+T1314,2024-11-24,Apples,Produce,3,13.46,59,Female,"Chicago, IL",Fall
+T1315,2024-01-24,Chicken Breast,Meat,8,13.32,22,Female,"Phoenix, AZ",Winter
+T1316,2024-09-05,Yogurt,Dairy,7,3.22,49,Female,"Dallas, TX",Fall
+T1317,2024-09-25,Chicken Breast,Meat,9,9.95,51,Female,"Houston, TX",Fall
+T1318,2024-09-26,Pumpkin Pie,Bakery,1,10.3,18,Male,"Los Angeles, CA",Fall
+T1319,2024-02-15,Bananas,Produce,4,10.62,56,Male,"New York, NY",Winter
+T1320,2024-01-06,Whole Milk,Dairy,3,14.55,65,Male,"Philadelphia, PA",Winter
+T1321,2024-02-01,Pork Chops,Meat,3,13.62,34,Female,"Los Angeles, CA",Winter
+T1322,2024-06-13,Pumpkin Pie,Bakery,9,16.76,44,Male,"Houston, TX",Summer
+T1323,2024-11-01,Croissant,Bakery,8,11.57,38,Female,"Los Angeles, CA",Fall
+T1324,2024-10-23,Carrots,Produce,2,14.96,59,Female,"New York, NY",Fall
+T1325,2024-12-23,Bananas,Produce,6,1.01,40,Male,"San Diego, CA",Winter
+T1326,2024-09-20,Orange Juice,Beverages,3,19.46,59,Male,"San Diego, CA",Fall
+T1327,2024-01-25,Chicken Breast,Meat,8,14.17,54,Female,"Phoenix, AZ",Winter
+T1328,2024-12-09,Ice Cream,Frozen,9,15.22,45,Female,"Chicago, IL",Winter
+T1329,2024-03-17,Whole Wheat Bread,Bakery,2,16.35,49,Male,"Houston, TX",Spring
+T1330,2024-04-04,Whole Milk,Dairy,6,1.79,20,Female,"San Jose, CA",Spring
+T1331,2024-09-13,Apples,Produce,8,1.0,32,Female,"Dallas, TX",Fall
+T1332,2024-06-28,Croissant,Bakery,2,7.05,40,Male,"San Antonio, TX",Summer
+T1333,2024-01-16,Yogurt,Dairy,2,12.94,19,Male,"Houston, TX",Winter
+T1334,2024-02-21,Whole Milk,Dairy,10,8.26,31,Male,"New York, NY",Winter
+T1335,2024-02-28,Whole Milk,Dairy,10,1.31,55,Female,"San Diego, CA",Winter
+T1336,2024-09-18,Orange Juice,Beverages,8,7.39,67,Male,"New York, NY",Fall
+T1337,2024-09-16,Soda,Beverages,4,14.24,41,Female,"New York, NY",Fall
+T1338,2024-03-16,Croissant,Bakery,3,5.78,27,Female,"Phoenix, AZ",Spring
+T1339,2024-03-07,Whole Wheat Bread,Bakery,9,2.59,62,Female,"Los Angeles, CA",Spring
+T1340,2024-08-10,Apples,Produce,7,13.99,58,Male,"San Diego, CA",Summer
+T1341,2024-03-27,Cheddar Cheese,Dairy,8,1.43,18,Female,"Dallas, TX",Spring
+T1342,2024-04-25,Bananas,Produce,4,19.94,22,Female,"San Jose, CA",Spring
+T1343,2024-06-02,Coffee,Beverages,3,3.26,47,Male,"San Jose, CA",Summer
+T1344,2024-07-10,Croissant,Bakery,9,4.46,43,Male,"Houston, TX",Summer
+T1345,2024-10-27,Soda,Beverages,9,6.64,67,Female,"San Jose, CA",Fall
+T1346,2024-11-05,Orange Juice,Beverages,9,4.62,60,Male,"Phoenix, AZ",Fall
+T1347,2024-10-17,Soda,Beverages,8,15.89,49,Male,"Philadelphia, PA",Fall
+T1348,2024-07-14,Frozen Peas,Frozen,9,3.68,70,Male,"Los Angeles, CA",Summer
+T1349,2024-11-25,Pumpkin Pie,Bakery,4,12.89,37,Male,"New York, NY",Fall
+T1350,2024-09-03,Whole Milk,Dairy,8,15.83,53,Male,"Houston, TX",Fall
+T1351,2024-01-26,Carrots,Produce,9,1.15,38,Male,"Philadelphia, PA",Winter
+T1352,2024-05-25,Pork Chops,Meat,8,1.67,67,Male,"Los Angeles, CA",Spring
+T1353,2024-09-18,Whole Milk,Dairy,6,13.72,70,Female,"San Jose, CA",Fall
+T1354,2024-08-04,Pork Chops,Meat,3,19.87,30,Female,"New York, NY",Summer
+T1355,2024-06-19,Carrots,Produce,2,9.93,51,Male,"Chicago, IL",Summer
+T1356,2024-12-13,Coffee,Beverages,2,13.38,57,Female,"Houston, TX",Winter
+T1357,2024-11-19,Carrots,Produce,2,19.69,25,Male,"Los Angeles, CA",Fall
+T1358,2024-07-12,Chicken Breast,Meat,1,18.04,54,Male,"Philadelphia, PA",Summer
+T1359,2024-02-03,Yogurt,Dairy,3,18.96,20,Female,"San Jose, CA",Winter
+T1360,2024-08-20,Whole Milk,Dairy,1,5.33,43,Male,"San Diego, CA",Summer
+T1361,2024-07-23,Soda,Beverages,4,5.97,26,Male,"Philadelphia, PA",Summer
+T1362,2024-02-05,Carrots,Produce,8,10.14,48,Female,"Los Angeles, CA",Winter
+T1363,2024-10-23,Pumpkin Pie,Bakery,8,17.4,59,Female,"Philadelphia, PA",Fall
+T1364,2024-03-11,Carrots,Produce,8,12.92,39,Female,"Los Angeles, CA",Spring
+T1365,2024-07-04,Cheddar Cheese,Dairy,9,17.43,36,Male,"Los Angeles, CA",Summer
+T1366,2024-10-16,Coffee,Beverages,7,19.89,43,Male,"Houston, TX",Fall
+T1367,2024-07-20,Soda,Beverages,6,2.78,67,Male,"San Diego, CA",Summer
+T1368,2024-08-17,Frozen Pizza,Frozen,1,10.07,34,Male,"San Jose, CA",Summer
+T1369,2024-02-06,Whole Milk,Dairy,1,15.88,40,Male,"San Jose, CA",Winter
+T1370,2024-03-13,Yogurt,Dairy,8,5.52,27,Female,"New York, NY",Spring
+T1371,2024-08-08,Yogurt,Dairy,6,16.6,30,Female,"Phoenix, AZ",Summer
+T1372,2024-11-09,Pumpkin Pie,Bakery,4,14.93,39,Female,"San Jose, CA",Fall
+T1373,2024-07-09,Orange Juice,Beverages,8,13.04,43,Male,"New York, NY",Summer
+T1374,2024-07-11,Frozen Peas,Frozen,10,7.06,27,Female,"Philadelphia, PA",Summer
+T1375,2024-01-13,Apples,Produce,3,14.32,49,Female,"Dallas, TX",Winter
+T1376,2024-06-25,Ground Beef,Meat,5,17.96,59,Female,"Philadelphia, PA",Summer
+T1377,2024-09-10,Frozen Peas,Frozen,3,4.61,22,Female,"New York, NY",Fall
+T1378,2024-04-23,Yogurt,Dairy,5,9.38,34,Female,"Houston, TX",Spring
+T1379,2024-04-18,Pumpkin Pie,Bakery,3,5.29,18,Male,"New York, NY",Spring
+T1380,2024-01-27,Frozen Peas,Frozen,4,13.89,52,Female,"Chicago, IL",Winter
+T1381,2024-01-16,Chicken Breast,Meat,10,11.73,61,Male,"San Diego, CA",Winter
+T1382,2024-02-08,Whole Wheat Bread,Bakery,5,7.2,18,Female,"San Jose, CA",Winter
+T1383,2024-06-27,Yogurt,Dairy,5,3.9,42,Female,"New York, NY",Summer
+T1384,2024-05-01,Yogurt,Dairy,10,5.59,66,Male,"Philadelphia, PA",Spring
+T1385,2024-09-23,Carrots,Produce,10,8.99,20,Male,"New York, NY",Fall
+T1386,2024-11-28,Yogurt,Dairy,5,16.63,40,Female,"Phoenix, AZ",Fall
+T1387,2024-04-13,Cheddar Cheese,Dairy,7,10.62,54,Female,"San Antonio, TX",Spring
+T1388,2024-05-01,Orange Juice,Beverages,7,9.19,70,Male,"Philadelphia, PA",Spring
+T1389,2024-06-25,Ground Beef,Meat,6,1.33,67,Female,"Houston, TX",Summer
+T1390,2024-05-24,Frozen Pizza,Frozen,1,7.68,32,Female,"San Diego, CA",Spring
+T1391,2024-01-10,Whole Milk,Dairy,6,19.07,19,Male,"Dallas, TX",Winter
+T1392,2024-11-08,Orange Juice,Beverages,7,6.65,42,Female,"New York, NY",Fall
+T1393,2024-01-06,Ground Beef,Meat,3,13.89,67,Female,"San Antonio, TX",Winter
+T1394,2024-11-23,Pork Chops,Meat,7,6.01,70,Female,"New York, NY",Fall
+T1395,2024-09-09,Pumpkin Pie,Bakery,2,13.85,52,Female,"Chicago, IL",Fall
+T1396,2024-08-10,Chicken Breast,Meat,5,12.88,53,Female,"Phoenix, AZ",Summer
+T1397,2024-05-11,Frozen Peas,Frozen,1,15.43,64,Female,"San Diego, CA",Spring
+T1398,2024-01-10,Ground Beef,Meat,6,7.66,57,Male,"Los Angeles, CA",Winter
+T1399,2024-08-04,Yogurt,Dairy,8,1.76,24,Male,"San Jose, CA",Summer
+T1400,2024-07-05,Carrots,Produce,1,10.09,54,Male,"Los Angeles, CA",Summer
+T1401,2024-12-05,Croissant,Bakery,6,9.97,42,Female,"Phoenix, AZ",Winter
+T1402,2024-05-24,Carrots,Produce,6,3.52,37,Female,"San Diego, CA",Spring
+T1403,2024-02-06,Ground Beef,Meat,9,1.67,55,Male,"Los Angeles, CA",Winter
+T1404,2024-07-27,Chicken Breast,Meat,9,16.89,57,Male,"Phoenix, AZ",Summer
+T1405,2024-01-02,Cheddar Cheese,Dairy,2,17.6,38,Male,"San Jose, CA",Winter
+T1406,2024-02-14,Cheddar Cheese,Dairy,4,2.16,52,Male,"San Diego, CA",Winter
+T1407,2024-11-12,Chicken Breast,Meat,3,8.91,59,Female,"Philadelphia, PA",Fall
+T1408,2024-03-13,Frozen Pizza,Frozen,2,12.27,55,Female,"San Antonio, TX",Spring
+T1409,2024-03-13,Coffee,Beverages,9,11.4,37,Female,"San Diego, CA",Spring
+T1410,2024-07-01,Yogurt,Dairy,5,14.53,59,Male,"Dallas, TX",Summer
+T1411,2024-12-04,Apples,Produce,7,8.41,42,Female,"Houston, TX",Winter
+T1412,2024-01-22,Frozen Pizza,Frozen,2,17.22,28,Female,"Houston, TX",Winter
+T1413,2024-12-11,Apples,Produce,4,5.07,33,Female,"San Antonio, TX",Winter
+T1414,2024-08-20,Yogurt,Dairy,6,8.33,45,Female,"San Antonio, TX",Summer
+T1415,2024-05-14,Pumpkin Pie,Bakery,6,8.12,27,Female,"Philadelphia, PA",Spring
+T1416,2024-01-10,Frozen Peas,Frozen,6,12.88,26,Female,"San Diego, CA",Winter
+T1417,2024-10-11,Pumpkin Pie,Bakery,7,5.3,64,Female,"San Diego, CA",Fall
+T1418,2024-02-17,Frozen Peas,Frozen,6,8.61,33,Female,"San Jose, CA",Winter
+T1419,2024-10-05,Ice Cream,Frozen,10,6.92,58,Female,"San Antonio, TX",Fall
+T1420,2024-05-05,Bananas,Produce,8,13.57,63,Female,"San Diego, CA",Spring
+T1421,2024-09-05,Whole Milk,Dairy,4,2.71,65,Male,"Philadelphia, PA",Fall
+T1422,2024-05-01,Whole Milk,Dairy,7,7.1,27,Female,"New York, NY",Spring
+T1423,2024-03-13,Ice Cream,Frozen,1,17.92,69,Male,"New York, NY",Spring
+T1424,2024-09-23,Pumpkin Pie,Bakery,10,19.44,58,Female,"San Jose, CA",Fall
+T1425,2024-07-25,Chicken Breast,Meat,10,10.35,29,Female,"New York, NY",Summer
+T1426,2024-04-23,Pork Chops,Meat,3,17.67,23,Male,"Houston, TX",Spring
+T1427,2024-06-14,Whole Wheat Bread,Bakery,1,12.76,65,Male,"San Jose, CA",Summer
+T1428,2024-08-15,Chicken Breast,Meat,4,1.27,52,Male,"Phoenix, AZ",Summer
+T1429,2024-11-20,Soda,Beverages,1,7.46,61,Female,"San Antonio, TX",Fall
+T1430,2024-05-01,Pumpkin Pie,Bakery,9,16.09,34,Female,"San Diego, CA",Spring
+T1431,2024-12-28,Ice Cream,Frozen,4,3.19,56,Male,"Phoenix, AZ",Winter
+T1432,2024-08-18,Whole Milk,Dairy,1,5.79,29,Male,"New York, NY",Summer
+T1433,2024-07-27,Pumpkin Pie,Bakery,4,13.6,28,Male,"San Antonio, TX",Summer
+T1434,2024-04-09,Chicken Breast,Meat,8,2.0,29,Male,"Houston, TX",Spring
+T1435,2024-08-15,Cheddar Cheese,Dairy,4,3.71,58,Male,"San Antonio, TX",Summer
+T1436,2024-08-20,Pumpkin Pie,Bakery,5,14.38,37,Male,"San Antonio, TX",Summer
+T1437,2024-03-16,Whole Milk,Dairy,1,8.12,57,Female,"Houston, TX",Spring
+T1438,2024-07-16,Coffee,Beverages,7,17.25,61,Male,"San Antonio, TX",Summer
+T1439,2024-03-19,Frozen Peas,Frozen,9,12.43,21,Male,"San Diego, CA",Spring
+T1440,2024-05-22,Croissant,Bakery,3,14.82,56,Male,"New York, NY",Spring
+T1441,2024-10-10,Pork Chops,Meat,5,18.23,18,Female,"Philadelphia, PA",Fall
+T1442,2024-01-15,Pumpkin Pie,Bakery,3,8.22,50,Female,"New York, NY",Winter
+T1443,2024-01-17,Pork Chops,Meat,6,3.97,30,Male,"San Diego, CA",Winter
+T1444,2024-06-05,Chicken Breast,Meat,7,16.95,38,Female,"New York, NY",Summer
+T1445,2024-12-21,Apples,Produce,5,18.52,27,Male,"Houston, TX",Winter
+T1446,2024-12-09,Cheddar Cheese,Dairy,4,8.68,18,Female,"Chicago, IL",Winter
+T1447,2024-01-09,Orange Juice,Beverages,1,19.73,25,Female,"Philadelphia, PA",Winter
+T1448,2024-06-09,Yogurt,Dairy,8,3.21,62,Female,"San Jose, CA",Summer
+T1449,2024-01-26,Apples,Produce,2,5.57,58,Female,"Houston, TX",Winter
+T1450,2024-10-05,Pumpkin Pie,Bakery,10,13.88,26,Male,"New York, NY",Fall
+T1451,2024-01-15,Chicken Breast,Meat,6,8.36,42,Female,"San Diego, CA",Winter
+T1452,2024-12-08,Ground Beef,Meat,4,19.41,45,Female,"Phoenix, AZ",Winter
+T1453,2024-01-12,Yogurt,Dairy,8,9.03,28,Female,"Chicago, IL",Winter
+T1454,2024-11-10,Ground Beef,Meat,8,17.16,58,Female,"Los Angeles, CA",Fall
+T1455,2024-08-11,Soda,Beverages,2,7.53,30,Male,"Philadelphia, PA",Summer
+T1456,2024-05-15,Pork Chops,Meat,6,3.99,68,Male,"New York, NY",Spring
+T1457,2024-08-09,Frozen Pizza,Frozen,4,9.72,38,Male,"Dallas, TX",Summer
+T1458,2024-02-13,Whole Milk,Dairy,3,4.37,61,Male,"Chicago, IL",Winter
+T1459,2024-11-15,Coffee,Beverages,10,19.5,55,Male,"Philadelphia, PA",Fall
+T1460,2024-01-08,Ground Beef,Meat,1,10.05,66,Female,"Chicago, IL",Winter
+T1461,2024-11-08,Soda,Beverages,10,7.74,28,Male,"San Antonio, TX",Fall
+T1462,2024-06-10,Frozen Peas,Frozen,5,10.44,42,Male,"San Antonio, TX",Summer
+T1463,2024-06-27,Pumpkin Pie,Bakery,4,17.77,41,Male,"San Antonio, TX",Summer
+T1464,2024-04-20,Orange Juice,Beverages,5,18.07,42,Male,"San Jose, CA",Spring
+T1465,2024-01-12,Croissant,Bakery,10,13.66,22,Male,"Phoenix, AZ",Winter
+T1466,2024-06-27,Coffee,Beverages,6,5.77,41,Male,"Phoenix, AZ",Summer
+T1467,2024-10-26,Pumpkin Pie,Bakery,3,7.37,47,Male,"Houston, TX",Fall
+T1468,2024-01-03,Frozen Peas,Frozen,6,11.57,54,Female,"Houston, TX",Winter
+T1469,2024-07-11,Orange Juice,Beverages,8,8.32,35,Male,"San Jose, CA",Summer
+T1470,2024-12-25,Pumpkin Pie,Bakery,5,16.36,27,Female,"San Jose, CA",Winter
+T1471,2024-07-06,Pork Chops,Meat,4,15.27,68,Female,"Los Angeles, CA",Summer
+T1472,2024-09-21,Ice Cream,Frozen,5,15.2,47,Female,"Chicago, IL",Fall
+T1473,2024-09-22,Chicken Breast,Meat,9,4.05,59,Female,"San Jose, CA",Fall
+T1474,2024-01-27,Pumpkin Pie,Bakery,4,8.65,20,Female,"San Jose, CA",Winter
+T1475,2024-06-03,Chicken Breast,Meat,3,9.89,26,Female,"San Antonio, TX",Summer
+T1476,2024-12-17,Carrots,Produce,8,16.69,27,Female,"Phoenix, AZ",Winter
+T1477,2024-07-18,Pork Chops,Meat,8,2.67,41,Male,"San Jose, CA",Summer
+T1478,2024-07-26,Apples,Produce,5,17.47,20,Female,"Houston, TX",Summer
+T1479,2024-11-10,Frozen Pizza,Frozen,6,0.53,28,Male,"San Diego, CA",Fall
+T1480,2024-09-16,Cheddar Cheese,Dairy,2,6.92,57,Female,"San Diego, CA",Fall
+T1481,2024-01-12,Whole Milk,Dairy,2,5.54,43,Male,"Houston, TX",Winter
+T1482,2024-12-15,Croissant,Bakery,1,10.55,65,Female,"San Jose, CA",Winter
+T1483,2024-07-05,Ice Cream,Frozen,1,12.23,42,Female,"San Antonio, TX",Summer
+T1484,2024-04-06,Apples,Produce,2,16.37,27,Male,"Los Angeles, CA",Spring
+T1485,2024-03-15,Pumpkin Pie,Bakery,6,19.86,55,Male,"New York, NY",Spring
+T1486,2024-01-17,Whole Wheat Bread,Bakery,4,11.71,19,Female,"Houston, TX",Winter
+T1487,2024-01-12,Carrots,Produce,10,3.48,62,Male,"San Antonio, TX",Winter
+T1488,2024-04-26,Whole Wheat Bread,Bakery,3,18.28,68,Female,"Philadelphia, PA",Spring
+T1489,2024-11-04,Pumpkin Pie,Bakery,5,4.15,63,Male,"Dallas, TX",Fall
+T1490,2024-12-22,Cheddar Cheese,Dairy,5,6.0,30,Male,"San Diego, CA",Winter
+T1491,2024-02-01,Pork Chops,Meat,3,4.26,20,Male,"Phoenix, AZ",Winter
+T1492,2024-06-06,Ground Beef,Meat,3,8.85,55,Female,"New York, NY",Summer
+T1493,2024-01-18,Bananas,Produce,4,16.39,57,Male,"Chicago, IL",Winter
+T1494,2024-06-18,Pumpkin Pie,Bakery,4,16.38,33,Female,"Chicago, IL",Summer
+T1495,2024-12-25,Frozen Peas,Frozen,9,2.66,53,Male,"Los Angeles, CA",Winter
+T1496,2024-04-23,Bananas,Produce,8,3.46,33,Female,"Chicago, IL",Spring
+T1497,2024-06-03,Frozen Pizza,Frozen,2,2.72,63,Female,"Philadelphia, PA",Summer
+T1498,2024-12-25,Frozen Pizza,Frozen,8,3.11,40,Male,"Phoenix, AZ",Winter
+T1499,2024-12-16,Pumpkin Pie,Bakery,2,7.02,47,Male,"Houston, TX",Winter
+T1500,2024-06-09,Frozen Peas,Frozen,3,1.48,68,Female,"Chicago, IL",Summer
